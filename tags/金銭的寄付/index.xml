@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>金銭的寄付 on 加藤 大貴</title>
+    <link>https://katopachi.github.io/tags/%E9%87%91%E9%8A%AD%E7%9A%84%E5%AF%84%E4%BB%98/</link>
+    <description>Recent content in 金銭的寄付 on 加藤 大貴</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/%E9%87%91%E9%8A%AD%E7%9A%84%E5%AF%84%E4%BB%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>韓国税制と寄付行動の実証分析</title>
+      <link>https://katopachi.github.io/project/south-korea-tax-system/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/project/south-korea-tax-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patron-Dictator Game: 寄付者と慈善団体の戦略的な関わりあい</title>
+      <link>https://katopachi.github.io/project/patron-dictator-game/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/project/patron-dictator-game/</guid>
+      <description>&lt;p&gt;本研究の目的は、この非対称性が寄付市場にどのような影響を与えるかを経済実験で明らかにすることである。これまでの研究はこの問題について寄付者側の視点から検討されてきた。本研究は慈善団体側の視点を追加して分析する。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
