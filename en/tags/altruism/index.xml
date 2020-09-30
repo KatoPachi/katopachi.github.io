@@ -6,14 +6,25 @@
     <description>Recent content in Altruism on Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/tags/altruism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://katopachi.github.io/en/tags/altruism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Economic Perspectives of Bone Marrow Registries</title>
       <link>https://katopachi.github.io/en/project/bone-marrow-registries/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/project/bone-marrow-registries/</guid>
-      <description></description>
+      <description>&lt;p&gt;Joint with Fumio Ohtake (Osaka University), Kazuhiro Yoshiuchi (The University of Tokyo), Yukariko Hida (The University of Tokyo), Saiko Kurosawa (Ina Central Hospital), and Takahiro Fukuda (National Cancer Center Hospital)&lt;/p&gt;
+&lt;p&gt;When Recipients having blood diseases cannot (e.g. leukimia) find out related donors,
+they need a transplant of blood cells provided by donors who joined in Japanese Marrow Donor Program (JMDP).
+To acheive a transplant in a short time,
+JMDP should increase not only the size of donor pool but also the quality of donor pool.
+This project aims to reveal characteristics of providers
+from perspectives of economics, especially behavioral economics,
+using the survey data that JMDP carried out.&lt;/p&gt;</description>
     </item>
     
   </channel>

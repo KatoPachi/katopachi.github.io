@@ -6,14 +6,18 @@
     <description>Recent content in 寄付の効率性 on 加藤 大貴</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/%E5%AF%84%E4%BB%98%E3%81%AE%E5%8A%B9%E7%8E%87%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://katopachi.github.io/tags/%E5%AF%84%E4%BB%98%E3%81%AE%E5%8A%B9%E7%8E%87%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Patron-Dictator Game: 寄付者と慈善団体の戦略的な関わりあい</title>
       <link>https://katopachi.github.io/project/patron-dictator-game/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/project/patron-dictator-game/</guid>
-      <description>&lt;p&gt;本研究の目的は、この非対称性が寄付市場にどのような影響を与えるかを経済実験で明らかにすることである。これまでの研究はこの問題について寄付者側の視点から検討されてきた。本研究は慈善団体側の視点を追加して分析する。&lt;/p&gt;</description>
+      <description>&lt;p&gt;寄付市場における大きな問題点の一つに「情報の非対称性」がある。寄付市場では、寄付者が資産の一部を慈善団体に譲渡し、第三者の利益になる生産を委託する。このとき、寄付者は事前に、慈善団体が集めた寄付金をどのように使うかを知ることができないケースがある。本研究の目的は、この非対称性が寄付市場にどのような影響を与えるかを経済実験で明らかにすることである。&lt;/p&gt;</description>
     </item>
     
   </channel>

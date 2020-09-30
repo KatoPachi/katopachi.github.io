@@ -6,7 +6,11 @@
     <description>Recent content in Tags on Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://katopachi.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Monetary Donations</title>
       <link>https://katopachi.github.io/en/tags/monetary-donations/</link>

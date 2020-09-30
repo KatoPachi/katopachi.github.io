@@ -6,14 +6,23 @@
     <description>Recent content in Projects on Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://katopachi.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>South Korea Tax System and Charitable Giving Behavior</title>
+      <title>Tax Incentive and Charitable Giving: A case of South Korea</title>
       <link>https://katopachi.github.io/en/project/south-korea-tax-system/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/project/south-korea-tax-system/</guid>
-      <description></description>
+      <description>&lt;p&gt;Joint with Tsuyoshi Goto (Chiba University) and Yong-Rok Kim (Kobe University)&lt;/p&gt;
+&lt;p&gt;To promote monetary donations, government establish deductions depending on an amount of donations.
+Especiaaly, in South Korea, deduction policy largely changed from tax deduction to tax credit in 2013.
+This project analyzes the effect of this policy change on charitable giving and its heterogeneity,
+using the panel data called National Survey of Tax and Benefit that
+Korea Institute of Public Finance carried out.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,7 +31,14 @@
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/project/bone-marrow-registries/</guid>
-      <description></description>
+      <description>&lt;p&gt;Joint with Fumio Ohtake (Osaka University), Kazuhiro Yoshiuchi (The University of Tokyo), Yukariko Hida (The University of Tokyo), Saiko Kurosawa (Ina Central Hospital), and Takahiro Fukuda (National Cancer Center Hospital)&lt;/p&gt;
+&lt;p&gt;When Recipients having blood diseases cannot (e.g. leukimia) find out related donors,
+they need a transplant of blood cells provided by donors who joined in Japanese Marrow Donor Program (JMDP).
+To acheive a transplant in a short time,
+JMDP should increase not only the size of donor pool but also the quality of donor pool.
+This project aims to reveal characteristics of providers
+from perspectives of economics, especially behavioral economics,
+using the survey data that JMDP carried out.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,7 +47,12 @@
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/project/patron-dictator-game/</guid>
-      <description></description>
+      <description>&lt;p&gt;Asymmetric information is a big issue in a charity market.
+In the market, donors delegate production with third party interests to charities,
+giving a part of wealth.
+However, there is a case where donors cannot know how charities use their own money beforehand.
+This project aims to clarify the effect of this asymmetric information with respect to productivity on
+charity market, using a laboratory experiment called patron-dictator game.&lt;/p&gt;</description>
     </item>
     
   </channel>

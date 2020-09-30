@@ -43,21 +43,6 @@
   </url>
   
   <url>
-    <loc>https://katopachi.github.io/en/project/south-korea-tax-system/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/project/south-korea-tax-system/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/project/south-korea-tax-system/"
-                />
-  </url>
-  
-  <url>
     <loc>https://katopachi.github.io/en/tags/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,6 +65,21 @@
   <url>
     <loc>https://katopachi.github.io/en/tags/tax-deducation/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/project/south-korea-tax-system/</loc>
+    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/project/south-korea-tax-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/project/south-korea-tax-system/"
+                />
   </url>
   
   <url>

@@ -6,14 +6,23 @@
     <description>Recent content on 加藤 大貴</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://katopachi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>韓国税制と寄付行動の実証分析</title>
+      <title>韓国における寄付税制と寄付行動</title>
       <link>https://katopachi.github.io/project/south-korea-tax-system/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/project/south-korea-tax-system/</guid>
-      <description></description>
+      <description>&lt;p&gt;共同研究者：後藤剛志（千葉大学）、金栄録（神戸大学）&lt;/p&gt;
+&lt;p&gt;個人の金銭的寄付を促すために、政府は納税額を減額する控除制度を設ける。
+とくに、韓国は2013年に寄付税制が所得控除制度から税額控除制度に大きく変化した。
+本プロジェクトは、
+Korea Institute of Public Financeが実施しているパネルデータ&amp;quot;National Survey of Tax and Benefit&amp;quot;を用いて、
+控除インセンティブが寄付行動に与える影響とその異質性に分析する。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,7 +31,14 @@
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/project/bone-marrow-registries/</guid>
-      <description></description>
+      <description>&lt;p&gt;共同研究者：大竹文雄（大阪大学）、吉内一浩（東京大学）、樋田紫子（東京大学）、黒澤彩子（伊那中央病院）、福田隆浩（国立がん研究センター中央病院）&lt;/p&gt;
+&lt;p&gt;白血病などの血液疾患を抱える患者が家族内のドナーを見つけられないとき、
+日本骨髄バンクに登録されたドナーからの移植を受ける必要がある。
+骨髄バンクを介した移植の到達率を高めるためには、
+骨髄バンクの登録者を増やすだけでなく、
+適合者となったときに積極的に提供するドナーで構成される質の高いドナープールを目指す必要がある。
+本プロジェクトの目的は、日本骨髄バンクが適合経験がある登録者に対して実施したアンケート調査を用いて、
+経済学、とくに行動経済学の知見から幹細胞提供者の特徴を明らかにする。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,7 +47,7 @@
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/project/patron-dictator-game/</guid>
-      <description>&lt;p&gt;本研究の目的は、この非対称性が寄付市場にどのような影響を与えるかを経済実験で明らかにすることである。これまでの研究はこの問題について寄付者側の視点から検討されてきた。本研究は慈善団体側の視点を追加して分析する。&lt;/p&gt;</description>
+      <description>&lt;p&gt;寄付市場における大きな問題点の一つに「情報の非対称性」がある。寄付市場では、寄付者が資産の一部を慈善団体に譲渡し、第三者の利益になる生産を委託する。このとき、寄付者は事前に、慈善団体が集めた寄付金をどのように使うかを知ることができないケースがある。本研究の目的は、この非対称性が寄付市場にどのような影響を与えるかを経済実験で明らかにすることである。&lt;/p&gt;</description>
     </item>
     
     <item>

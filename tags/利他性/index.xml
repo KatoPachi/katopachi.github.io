@@ -6,14 +6,25 @@
     <description>Recent content in 利他性 on 加藤 大貴</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/%E5%88%A9%E4%BB%96%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://katopachi.github.io/tags/%E5%88%A9%E4%BB%96%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>骨髄バンクのドナープールの経済学的考察</title>
       <link>https://katopachi.github.io/project/bone-marrow-registries/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/project/bone-marrow-registries/</guid>
-      <description></description>
+      <description>&lt;p&gt;共同研究者：大竹文雄（大阪大学）、吉内一浩（東京大学）、樋田紫子（東京大学）、黒澤彩子（伊那中央病院）、福田隆浩（国立がん研究センター中央病院）&lt;/p&gt;
+&lt;p&gt;白血病などの血液疾患を抱える患者が家族内のドナーを見つけられないとき、
+日本骨髄バンクに登録されたドナーからの移植を受ける必要がある。
+骨髄バンクを介した移植の到達率を高めるためには、
+骨髄バンクの登録者を増やすだけでなく、
+適合者となったときに積極的に提供するドナーで構成される質の高いドナープールを目指す必要がある。
+本プロジェクトの目的は、日本骨髄バンクが適合経験がある登録者に対して実施したアンケート調査を用いて、
+経済学、とくに行動経済学の知見から幹細胞提供者の特徴を明らかにする。&lt;/p&gt;</description>
     </item>
     
   </channel>

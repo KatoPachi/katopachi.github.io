@@ -6,14 +6,23 @@
     <description>Recent content in Tax Credit on Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/tags/tax-credit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://katopachi.github.io/en/tags/tax-credit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>South Korea Tax System and Charitable Giving Behavior</title>
+      <title>Tax Incentive and Charitable Giving: A case of South Korea</title>
       <link>https://katopachi.github.io/en/project/south-korea-tax-system/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/project/south-korea-tax-system/</guid>
-      <description></description>
+      <description>&lt;p&gt;Joint with Tsuyoshi Goto (Chiba University) and Yong-Rok Kim (Kobe University)&lt;/p&gt;
+&lt;p&gt;To promote monetary donations, government establish deductions depending on an amount of donations.
+Especiaaly, in South Korea, deduction policy largely changed from tax deduction to tax credit in 2013.
+This project analyzes the effect of this policy change on charitable giving and its heterogeneity,
+using the panel data called National Survey of Tax and Benefit that
+Korea Institute of Public Finance carried out.&lt;/p&gt;</description>
     </item>
     
   </channel>
