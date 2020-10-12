@@ -1,0 +1,29 @@
+div.simple-table table {
+	width: 100%;
+	border-top: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-right: 1px solid #000000;
+	border-collapse: collapse;
+	background: #ffffff;
+	margin-bottom:15px;
+  	margin-left: auto;
+  	margin-right: auto;
+     color:#000000;
+}
+
+div.simple-table table th{
+	font-size: 0.85em;
+	background-color: #cccccc;
+	border: 1px solid #000000;
+	text-align: center;
+ 	padding:10px 0;
+}
+
+div.simple-table table td {
+	font-size: 0.85em;
+	border: 1px solid #000000;
+	/*border-right: 1px solid #e2e2e2;*/
+	/*border-bottom: 1px solid #e2e2e2;*/
+	padding:5px 5px;
+}
