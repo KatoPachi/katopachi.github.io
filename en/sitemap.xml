@@ -3,13 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://katopachi.github.io/en/tags/giving-price/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/en/articles/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/articles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/book-section/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/articles/whf-and-job-change/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/articles/whf-and-job-change/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/articles/whf-and-job-change/"
+                />
   </url>
   
   <url>
     <loc>https://katopachi.github.io/en/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -23,33 +53,23 @@
   </url>
   
   <url>
-    <loc>https://katopachi.github.io/en/tags/monetary-donations/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/en/tags/job-search-activity/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katopachi.github.io/en/tags/political-trust/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/en/tags/job-search-intention/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katopachi.github.io/en/project/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/project/"
-                />
+    <loc>https://katopachi.github.io/en/tags/search-cost/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://katopachi.github.io/en/tags/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -63,93 +83,348 @@
   </url>
   
   <url>
-    <loc>https://katopachi.github.io/en/tags/tax-credit/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/en/tags/working-from-home/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katopachi.github.io/en/tags/tax-deducation/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://katopachi.github.io/en/project/south-korea-tax-system/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/en/tags/charitable-giving/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://katopachi.github.io/project/south-korea-tax-system/"
+                href="https://katopachi.github.io/tags/charitable-giving/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://katopachi.github.io/en/project/south-korea-tax-system/"
+                href="https://katopachi.github.io/en/tags/charitable-giving/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/declaration/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/declaration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/declaration/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/discussion-paper/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/price-elasticities/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/price-elasticities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/price-elasticities/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/selection/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/selection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/selection/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/tax-incentives/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/tax-incentives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/tax-incentives/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/articles/tax-price-elasticities/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/articles/tax-price-elasticities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/articles/tax-price-elasticities/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/articles/adding-nudge-based-reminders/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/articles/adding-nudge-based-reminders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/articles/adding-nudge-based-reminders/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/antibody-test/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/antibody-test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/antibody-test/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/antibody-testing/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/antibody-testing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/antibody-testing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/free-vouchers/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/free-vouchers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/free-vouchers/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/articles/mailing-vouchers/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/articles/mailing-vouchers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/articles/mailing-vouchers/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/regression-discontinuity-analysis/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/regression-discontinuity-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/regression-discontinuity-analysis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/reminders/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/reminders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/reminders/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/rubella/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/rubella/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/rubella/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/text-messages/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/text-messages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/text-messages/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/vaccination/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/vaccination/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/vaccination/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/vouchers/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/vouchers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/vouchers/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/covid-19/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/declaration-state-of-emergency/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/ict/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/ict/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/ict/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/tags/membership-based-system/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/articles/who-works-from-home/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/articles/who-works-from-home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/articles/who-works-from-home/"
                 />
   </url>
   
   <url>
     <loc>https://katopachi.github.io/en/tags/altruism/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katopachi.github.io/en/articles/behavioral-characteristics-of-bone-marrow-registrants/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://katopachi.github.io/en/tags/conformity/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katopachi.github.io/en/project/bone-marrow-registries/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/project/bone-marrow-registries/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/project/bone-marrow-registries/"
-                />
+    <loc>https://katopachi.github.io/en/tags/japanese-marrow-donor-program/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katopachi.github.io/en/tags/risk-preference/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/en/tags/peer-reviewed-paper/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katopachi.github.io/en/tags/social-image/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/en/tags/present-bias/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://katopachi.github.io/en/tags/time-preference/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://katopachi.github.io/en/tags/assymetric-information/</loc>
-    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://katopachi.github.io/en/tags/effectiveness-of-donations/</loc>
-    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://katopachi.github.io/en/project/patron-dictator-game/</loc>
-    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/project/patron-dictator-game/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/project/patron-dictator-game/"
-                />
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>

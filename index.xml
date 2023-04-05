@@ -6,44 +6,74 @@
     <description>Recent content on 加藤 大貴</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://katopachi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>韓国における寄付税制と寄付行動</title>
-      <link>https://katopachi.github.io/project/south-korea-tax-system/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <title>テレワークは転職を増やすのか</title>
+      <link>https://katopachi.github.io/articles/whf-and-job-change/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/project/south-korea-tax-system/</guid>
-      <description>&lt;p&gt;共同研究者：後藤剛志（千葉大学）、金栄録（神戸大学）&lt;/p&gt;
-&lt;p&gt;多くの国は金銭的寄付のインセンティブとして、tax benefitを用いた寄付価格の減少を用いている。 しかしながら、tax benefitの利用は政府の収入を減らすことにつながるので、政府の公共財供給を減らしかねない。 したがって、tax benefitの利用は金銭的寄付を通じた公共財供給の増加による便益と政府の公共財供給の減少によるコストで決まる。 本プロジェクトは韓国の2014年の租税改正を利用して価格弾力性を推定し、「税金が最上の寄付」と考えている人がこの価格に対してどのような反応をするかを検証することを目的とする。&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/articles/whf-and-job-change/</guid>
+      <description>&lt;p&gt;共同研究者：
+大竹文雄（大阪大学）&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>骨髄バンクのドナープールの経済学的考察</title>
-      <link>https://katopachi.github.io/project/bone-marrow-registries/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Tax-Price Elasticities of Charitable Giving and Selection of Declaration: Panel Study of South Korea</title>
+      <link>https://katopachi.github.io/articles/tax-price-elasticities/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/project/bone-marrow-registries/</guid>
-      <description>&lt;p&gt;共同研究者：大竹文雄（大阪大学）、吉内一浩（東京大学）、樋田紫子（東京大学）、黒澤彩子（伊那中央病院）、福田隆浩（国立がん研究センター中央病院）&lt;/p&gt;
-&lt;p&gt;白血病などの血液疾患を抱える患者が家族内のドナーを見つけられないとき、
-日本骨髄バンクに登録されたドナーからの移植を受ける必要がある。
-骨髄バンクを介した移植の到達率を高めるためには、
-骨髄バンクの登録者を増やすだけでなく、
-適合者となったときに積極的に提供するドナーで構成される質の高いドナープールを目指す必要がある。
-本プロジェクトの目的は、日本骨髄バンクが適合経験がある登録者に対して実施したアンケート調査を用いて、
-経済学、とくに行動経済学の知見から幹細胞提供者の特徴を明らかにする。&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/articles/tax-price-elasticities/</guid>
+      <description>&lt;p&gt;共同研究者：後藤剛（千葉大学）、
+金栄禄（兵庫県立大学）&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Patron-Dictator Game: 寄付者と慈善団体の戦略的な関わりあい</title>
-      <link>https://katopachi.github.io/project/patron-dictator-game/</link>
-      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Adding Nudge-based Reminders to Monetary Incentives for Promoting Rubella Antibody Testing and Vaccination</title>
+      <link>https://katopachi.github.io/articles/adding-nudge-based-reminders/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/project/patron-dictator-game/</guid>
-      <description>&lt;p&gt;寄付市場における大きな問題点の一つに「情報の非対称性」がある。寄付市場では、寄付者が資産の一部を慈善団体に譲渡し、第三者の利益になる生産を委託する。このとき、寄付者は事前に、慈善団体が集めた寄付金をどのように使うかを知ることができないケースがある。本研究の目的は、この非対称性が寄付市場にどのような影響を与えるかを経済実験で明らかにすることである。&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/articles/adding-nudge-based-reminders/</guid>
+      <description>&lt;p&gt;共同研究者：
+佐々木周作（大阪大学）、
+大竹文雄（大阪大学）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mailing Vouchers: A Regression Discontinuity Analysis on Rubella Antibody Testing and Vaccination</title>
+      <link>https://katopachi.github.io/articles/mailing-vouchers/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/articles/mailing-vouchers/</guid>
+      <description>&lt;p&gt;共同研究者：
+佐々木周作（大阪大学）、
+大竹文雄（大阪大学）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>緊急事態宣言は誰の働き方を変えたか</title>
+      <link>https://katopachi.github.io/articles/who-works-from-home/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/articles/who-works-from-home/</guid>
+      <description>&lt;p&gt;共同研究者：
+大竹文雄（大阪大学）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>骨髄バンク登録者・幹細胞提供者の行動経済学的特性</title>
+      <link>https://katopachi.github.io/articles/behavioral-characteristics-of-bone-marrow/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/articles/behavioral-characteristics-of-bone-marrow/</guid>
+      <description>&lt;p&gt;共同研究者：大竹文雄（大阪大学）、
+吉内一浩（東京大学）、
+樋田紫子（東京大学）、
+黒澤彩子（伊那中央病院）、
+福田隆浩（国立がん研究センター中央病院）&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -52,7 +82,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/cv/</guid>
-      <description>メールアドレス  vge008kh [at] student.econ.osaka-u.ac.jp  学歴    年月 内容     2017年 3月 青山学院大学 国際政治経済学部 卒業（国際政治経済学 学士）   2019年 3月 大阪大学 経済学研究科 修士課程 卒業（経済学 修士）     職歴    期間 内容     2018年 4月 ～ 現在 大阪大学 経済学研究科 リサーチアシスタント（大竹文雄 教授）   2019年 4月 ～ 2019年 8月 大阪大学 国際公共政策研究科 ティーチングフェロー（Micro Economic Theory）   2019年 10月 ～ 2019年 3月　 大阪大学 経済学研究科　ティーチングアシスタント（現代日本経済）   2020年 4月 ～ 2020年 8月 大阪大学 全学教育推進機構 ティーチングアシスタント（学問の扉 行動経済学入門）   2020年 4月 ～ 2020年 8月 大阪大学 国際公共政策研究科 ティーチングフェロー（Micro Economic Theory）   2020年 4月 ～ 現在 大阪大学 経済学研究科 ティーチングフェロー（Econometrics I and II）   2020年 4月 ～ 現在 日本学術振興会 特別研究員     受賞    年月 内容     2019年 11月 行動経済学会 第2回学生論文コンテスト 修士学生部門 優秀賞     </description>
+      <description>メールアドレス
+ hkato.econ[at]r.hit-u.ac.jp hkato.econ[at]gmail.com  学歴
+ 2019年4月 - 2022年3月：大阪大学 大学院経済学研究科 経済学専攻（博士後期課程 単位取得後退学） 2017年4月 - 2019年3月：大阪大学 大学院経済学研究科 経済学専攻（経済学 修士） 2013年4月 - 2017年3月：青山学院大学 国際政治経済学部 国際経済学科 (国際政治経済学 学士)  経歴</description>
     </item>
     
     <item>
@@ -61,7 +93,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/list/</guid>
-      <description>査読付き学術論文  &amp;ldquo;骨髄バンク登録者・幹細胞提供者の行動経済学的特性&amp;rdquo; (with 大竹文雄、重岡伶奈、吉内一浩、樋田紫子、黒澤彩子、福田隆浩), 行動経済学, 13, 32-52, 2020. [本文リンク]  ディスカッションペーパー  &amp;ldquo;緊急事態宣言が誰の働き方を変えたのか&amp;rdquo; (with 大竹文雄), Discussion Papers In Economics and Business (大阪大学経済学研究科), 2021.</description>
+      <description>査読付き学術論文
+ &amp;ldquo;骨髄バンク登録者・幹細胞提供者の行動経済学的特性&amp;rdquo; (with 大竹文雄、重岡伶奈、吉内一浩、樋田紫子、黒澤彩子、福田隆浩), 行動経済学, 13, pp.32-52, 2020. [本文リンク]  その他論文（ディスカッションペーパー・書籍等）</description>
     </item>
     
   </channel>

@@ -25,3 +25,40 @@ div.simple-table table td {
 	/*border-bottom: 1px solid #e2e2e2;*/
 	padding:5px 5px;
 }
+
+.icon-researchmap:before {
+  content: "";
+  background-image: url("/images/icon_researchmap.png");
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-size: contain;
+  vertical-align: middle;
+}
+
+.post .post-title-neutral h1 {
+  text-transform: capitalize;
+  font-size: 30px;
+  letter-spacing: 5px;
+  line-height: 1;
+}
+
+.post .post-title-neutral h2 {
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  font-size: 26px;
+  line-height: 1;
+  font-weight: 400;
+  color: var(--heading-color);
+}
+
+.post .post-title-neutral h3 {
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  line-height: 1;
+  font-weight: 300;
+  /* color: #464646; */
+  color: var(--heading-color);
+  font-size: 22px;
+  margin: 0;
+}
