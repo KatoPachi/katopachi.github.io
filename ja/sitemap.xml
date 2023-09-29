@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://katopachi.github.io/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://katopachi.github.io/tags/charitable-giving/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,6 +27,100 @@
                 hreflang="ja"
                 href="https://katopachi.github.io/tags/charitable-giving/"
                 />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/declaration/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/declaration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/declaration/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/price-elasticities/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/price-elasticities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/price-elasticities/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/articles/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/articles/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/selection/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/selection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/selection/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/tax-incentives/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/tax-incentives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/tax-incentives/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/articles/tax-price-elasticities/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/articles/tax-price-elasticities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/articles/tax-price-elasticities/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/tags/matching/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
@@ -41,19 +135,6 @@
                 href="https://katopachi.github.io/tags/matching/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/articles/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/articles/"
-                />
-  </url><url>
     <loc>https://katopachi.github.io/articles/rebate-vs-matching/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -66,48 +147,6 @@
                 hreflang="ja"
                 href="https://katopachi.github.io/articles/rebate-vs-matching/"
                 />
-  </url><url>
-    <loc>https://katopachi.github.io/tags/selection/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/tags/selection/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/tags/selection/"
-                />
-  </url><url>
-    <loc>https://katopachi.github.io/tags/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://katopachi.github.io/tags/tax-incentives/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/tags/tax-incentives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/tags/tax-incentives/"
-                />
-  </url><url>
-    <loc>https://katopachi.github.io/tags/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/tags/%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%82%B9%E3%83%88/</loc>
     <lastmod>2023-03-29T00:00:00+00:00</lastmod>
@@ -133,45 +172,6 @@
   </url><url>
     <loc>https://katopachi.github.io/tags/%E8%BB%A2%E8%81%B7/</loc>
     <lastmod>2023-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/tags/declaration/</loc>
-    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/tags/declaration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/tags/declaration/"
-                />
-  </url><url>
-    <loc>https://katopachi.github.io/tags/price-elasticities/</loc>
-    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/tags/price-elasticities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/tags/price-elasticities/"
-                />
-  </url><url>
-    <loc>https://katopachi.github.io/articles/tax-price-elasticities/</loc>
-    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/articles/tax-price-elasticities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/articles/tax-price-elasticities/"
-                />
   </url><url>
     <loc>https://katopachi.github.io/articles/adding-nudge-based-reminders/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
