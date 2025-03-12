@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Membership-based system on Hiroki Kato</title>
+    <title>Membership-Based System on Personal Website of Hiroki Kato</title>
     <link>https://katopachi.github.io/en/tags/membership-based-system/</link>
-    <description>Recent content in Membership-based system on Hiroki Kato</description>
+    <description>Recent content in Membership-Based System on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>en</language>
     <lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/tags/membership-based-system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who Works from Home after First Declaration State of Emergency?</title>
-      <link>https://katopachi.github.io/en/articles/who-works-from-home/</link>
+      <link>https://katopachi.github.io/en/projects/who-works-from-home/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/articles/who-works-from-home/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;コロナ禍における個人と企業の変容－働き方・生活・格差と支援策（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶應義塾大学出版会, 2021. [Japanese] [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766427806/&#34;&gt;Book information (Japanese)&lt;/a&gt;]&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/en/projects/who-works-from-home/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;コロナ禍における個人と企業の変容－働き方・生活・格差と支援策（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶應義塾大学出版会, 2021. [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766427806/&#34;&gt;Book information (Japanese)&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This paper is written in Japanese. English abstract is available at our working paper version.&lt;/em&gt;&lt;/p&gt;</description>
+      
     </item>
     
   </channel>

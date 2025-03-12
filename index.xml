@@ -1,82 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>加藤 大貴</title>
+    <title>Personal Website of Hiroki Kato</title>
     <link>https://katopachi.github.io/</link>
-    <description>Recent content on 加藤 大貴</description>
+    <description>Recent content on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Charity Fraud: An Experimental Study of the Moral Hazard Problem in the Charity Market</title>
-      <link>https://katopachi.github.io/articles/charity-fraud/</link>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://katopachi.github.io/articles/charity-fraud/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tax-Price Elasticities of Charitable Giving and Selection of Reporting: Panel Study of South Korea</title>
-      <link>https://katopachi.github.io/articles/tax-price-elasticities/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <link>https://katopachi.github.io/projects/tax-price-elasticities/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/articles/tax-price-elasticities/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Oxford Economic Papers&lt;/strong&gt;&lt;/em&gt;, 2025 [&lt;a href=&#34;https://doi.org/10.1093/oep/gpaf002&#34;&gt;本文リンク&lt;/a&gt;]&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rebate versus Matching, Again: Does Self-Selection Matter?</title>
-      <link>https://katopachi.github.io/articles/rebate-vs-matching/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://katopachi.github.io/projects/tax-price-elasticities/</guid>
       
-      <guid>https://katopachi.github.io/articles/rebate-vs-matching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>テレワークは転職を増やすのか</title>
-      <link>https://katopachi.github.io/articles/whf-and-job-change/</link>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+        <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Oxford Economic Papers&lt;/strong&gt;&lt;/em&gt;, 2025 [&lt;a href=&#34;https://doi.org/10.1093/oep/gpaf002&#34;&gt;本文リンク&lt;/a&gt;]&lt;/p&gt;</description>
       
-      <guid>https://katopachi.github.io/articles/whf-and-job-change/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;検証・コロナ期日本の働き方－意識・行動変化と雇用政策の課題（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶応義塾大学出版会, 2023. [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766428858/&#34;&gt;書籍情報&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Adding Nudge-based Reminders to Financial Incentives for Promoting Antibody Testing and Vaccination to Prevent the Spread of Rubella</title>
-      <link>https://katopachi.github.io/articles/adding-nudge-based-reminders/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <link>https://katopachi.github.io/projects/adding-nudge-based-reminders/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/articles/adding-nudge-based-reminders/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Journal of Behavioral and Experimental Economics&lt;/strong&gt;&lt;/em&gt;, 2024 [&lt;a href=&#34;https://doi.org/10.1016/j.socec.2024.102300&#34;&gt;本文リンク&lt;/a&gt;]&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/projects/adding-nudge-based-reminders/</guid>
+      
+        <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Journal of Behavioral and Experimental Economics&lt;/strong&gt;&lt;/em&gt;, 2024 [&lt;a href=&#34;https://doi.org/10.1016/j.socec.2024.102300&#34;&gt;本文リンク&lt;/a&gt;]&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Charity Fraud: An Experimental Study of the Moral Hazard Problem in the Charity Market</title>
+      <link>https://katopachi.github.io/projects/charity-fraud/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/projects/charity-fraud/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rebate versus Matching, Again: Does Self-Selection Matter?</title>
+      <link>https://katopachi.github.io/projects/rebate-vs-matching/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/projects/rebate-vs-matching/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>テレワークは転職を増やすのか</title>
+      <link>https://katopachi.github.io/projects/whf-and-job-change/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/projects/whf-and-job-change/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;検証・コロナ期日本の働き方－意識・行動変化と雇用政策の課題（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶応義塾大学出版会, 2023. [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766428858/&#34;&gt;書籍情報&lt;/a&gt;]&lt;/p&gt;</description>
+      
     </item>
     
     <item>
       <title>Mailing Vouchers: A Regression Discontinuity Analysis on Rubella Antibody Testing and Vaccination</title>
-      <link>https://katopachi.github.io/articles/mailing-vouchers/</link>
+      <link>https://katopachi.github.io/projects/mailing-vouchers/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/articles/mailing-vouchers/</guid>
-      <description></description>
+      <guid>https://katopachi.github.io/projects/mailing-vouchers/</guid>
+      
+        <description></description>
+      
     </item>
     
     <item>
       <title>緊急事態宣言は誰の働き方を変えたか</title>
-      <link>https://katopachi.github.io/articles/who-works-from-home/</link>
+      <link>https://katopachi.github.io/projects/who-works-from-home/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/articles/who-works-from-home/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;コロナ禍における個人と企業の変容－働き方・生活・格差と支援策（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶應義塾大学出版会, 2021. [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766427806/&#34;&gt;書籍情報&lt;/a&gt;]&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/projects/who-works-from-home/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;コロナ禍における個人と企業の変容－働き方・生活・格差と支援策（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶應義塾大学出版会, 2021. [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766427806/&#34;&gt;書籍情報&lt;/a&gt;]&lt;/p&gt;</description>
+      
     </item>
     
     <item>
       <title>骨髄バンク登録者・幹細胞提供者の行動経済学的特性</title>
-      <link>https://katopachi.github.io/articles/behavioral-characteristics-of-bone-marrow-registrants/</link>
+      <link>https://katopachi.github.io/projects/behavioral-characteristics-of-bone-marrow-registrants/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/articles/behavioral-characteristics-of-bone-marrow-registrants/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;行動経済学&lt;/strong&gt;, 13, pp.32-52, 2020. [&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jbef/13/0/13_32/_article/-char/ja&#34;&gt;本文リンク&lt;/a&gt;]&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/projects/behavioral-characteristics-of-bone-marrow-registrants/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;行動経済学&lt;/strong&gt;, 13, pp.32-52, 2020. [&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jbef/13/0/13_32/_article/-char/ja&#34;&gt;本文リンク&lt;/a&gt;]&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -85,9 +101,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/cv/</guid>
-      <description>メールアドレス
- hkato.econ[at]r.hit-u.ac.jp hkato.econ[at]gmail.com  学歴
- 2019年4月 - 2022年3月：大阪大学 大学院経済学研究科 経済学専攻（博士後期課程 単位取得後退学） 2017年4月 - 2019年3月：大阪大学 大学院経済学研究科 経済学専攻（経済学 修士） 2013年4月 - 2017年3月：青山学院大学 国際政治経済学部 国際経済学科 (国際政治経済学 学士)  経歴</description>
+      
+        <description>&lt;p&gt;&lt;a href=&#34;https://katopachi.github.io/cv/#%e5%ad%a6%e6%ad%b4&#34;&gt;学歴&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e8%81%b7%e6%ad%b4&#34;&gt;職歴&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e3%81%9d%e3%81%ae%e4%bb%96%e6%89%80%e5%b1%9e&#34;&gt;その他所属&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e7%a0%94%e7%a9%b6%e5%88%86%e9%87%8e&#34;&gt;研究分野&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e6%9f%bb%e8%aa%ad%e4%bb%98%e3%81%8d%e8%ab%96%e6%96%87&#34;&gt;査読付き論文&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e3%81%9d%e3%81%ae%e4%bb%96%e5%87%ba%e7%89%88%e7%89%a9&#34;&gt;その他出版物&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e3%83%af%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%9a%e3%83%bc%e3%83%91%e3%83%bc&#34;&gt;ワーキングペーパー&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e5%8f%97%e8%b3%9e%e6%ad%b4&#34;&gt;受賞歴&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e5%a4%96%e9%83%a8%e8%b3%87%e9%87%91%e7%8d%b2%e5%be%97&#34;&gt;外部資金獲得&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e6%95%99%e8%82%b2%e6%ad%b4&#34;&gt;教育歴&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e5%ad%a6%e4%bc%9a%e3%83%bb%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b9%e7%99%ba%e8%a1%a8&#34;&gt;学会・カンファレンス発表&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e7%8f%be%e5%9c%a8%e3%81%ae%e6%89%80%e5%b1%9e%e5%ad%a6%e4%bc%9a&#34;&gt;現在の所属学会&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e7%a4%be%e4%bc%9a%e3%81%a7%e3%81%ae%e6%b4%bb%e5%8b%95&#34;&gt;社会での活動&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/11EwFonV2jBorzAS8A1IzQNXwudAGk9gQ/view?usp=sharing&#34;&gt;&lt;strong&gt;PDF&lt;/strong&gt;（Google Drive）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;住所&lt;/strong&gt;：&lt;br&gt;
+〒186-8601 東京都国立市中2-1&lt;br&gt;
+一橋大学 社会科学高等研究院（HIAS）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メールアドレス&lt;/strong&gt;：&lt;br&gt;
+hkato.econ[at]r.hit-u.ac.jp&lt;br&gt;
+hkato.econ[at]gmail.com&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -96,7 +119,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/list/</guid>
-      <description>査読付き学術論文   &amp;ldquo;Tax-price elasticities of charitable giving and selection of reporting: panel study of South Korea&amp;rdquo; (with 後藤剛志、金栄録), Oxford Economic Papers, 2025.</description>
+      
+        <description>&lt;h2 id=&#34;査読付き学術論文&#34;&gt;査読付き学術論文&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Tax-price elasticities of charitable giving and selection of reporting: panel study of South Korea&amp;rdquo; (with 後藤剛志、金栄録), &lt;em&gt;Oxford Economic Papers&lt;/em&gt;, 2025. [&lt;a href=&#34;https://doi.org/10.1093/oep/gpaf002&#34;&gt;本文リンク&lt;/a&gt;]&lt;/p&gt;</description>
+      
     </item>
     
   </channel>

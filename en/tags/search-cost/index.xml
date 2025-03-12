@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Search cost on Hiroki Kato</title>
-    <link>https://katopachi.github.io/en/tags/search-cost/</link>
-    <description>Recent content in Search cost on Hiroki Kato</description>
+    <title>Search Cost on Personal Website of Hiroki Kato</title>
+    <link>http://localhost:1313/en/tags/search-cost/</link>
+    <description>Recent content in Search Cost on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Wed, 29 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/tags/search-cost/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/search-cost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Does Working from Home Increase Job Change?</title>
-      <link>https://katopachi.github.io/en/articles/whf-and-job-change/</link>
+      <link>http://localhost:1313/en/projects/whf-and-job-change/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/articles/whf-and-job-change/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;検証・コロナ期日本の働き方－意識・行動変化と雇用政策の課題（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶応義塾大学出版会, 2023. [Japanese] [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766428858/&#34;&gt;Book information (Japanese)&lt;/a&gt;]&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/projects/whf-and-job-change/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;検証・コロナ期日本の働き方－意識・行動変化と雇用政策の課題（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶応義塾大学出版会, 2023. [Japanese] [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766428858/&#34;&gt;Book information (Japanese)&lt;/a&gt;]&lt;/p&gt;</description>
+      
     </item>
     
   </channel>

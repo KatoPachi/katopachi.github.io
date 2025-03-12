@@ -1,28 +1,164 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hiroki Kato</title>
+    <title>Tags on Personal Website of Hiroki Kato</title>
     <link>https://katopachi.github.io/en/tags/</link>
-    <description>Recent content in Tags on Hiroki Kato</description>
+    <description>Recent content in Tags on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Charity market</title>
+      <title>Charitable Giving</title>
+      <link>https://katopachi.github.io/en/tags/charitable-giving/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/charitable-giving/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>https://katopachi.github.io/en/tags/index/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Price Elasticities</title>
+      <link>https://katopachi.github.io/en/tags/price-elasticities/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/price-elasticities/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reporting</title>
+      <link>https://katopachi.github.io/en/tags/reporting/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/reporting/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Selection</title>
+      <link>https://katopachi.github.io/en/tags/selection/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/selection/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tax Incentives</title>
+      <link>https://katopachi.github.io/en/tags/tax-incentives/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/tax-incentives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Antibody Test</title>
+      <link>https://katopachi.github.io/en/tags/antibody-test/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/antibody-test/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Free Vouchers</title>
+      <link>https://katopachi.github.io/en/tags/free-vouchers/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/free-vouchers/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reminders</title>
+      <link>https://katopachi.github.io/en/tags/reminders/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/reminders/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rubella</title>
+      <link>https://katopachi.github.io/en/tags/rubella/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/rubella/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Text Messages</title>
+      <link>https://katopachi.github.io/en/tags/text-messages/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/text-messages/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vaccination</title>
+      <link>https://katopachi.github.io/en/tags/vaccination/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/vaccination/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Charity Market</title>
       <link>https://katopachi.github.io/en/tags/charity-market/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/charity-market/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
-      <title>Dictator game</title>
+      <title>Dictator Game</title>
       <link>https://katopachi.github.io/en/tags/dictator-game/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/dictator-game/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -31,16 +167,20 @@
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/fraud/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
-      <title>Hidden action</title>
+      <title>Hidden Action</title>
       <link>https://katopachi.github.io/en/tags/hidden-action/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/hidden-action/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -49,52 +189,9 @@
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/promise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Charitable giving</title>
-      <link>https://katopachi.github.io/en/tags/charitable-giving/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/tags/charitable-giving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Price elasticities</title>
-      <link>https://katopachi.github.io/en/tags/price-elasticities/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+        <description></description>
       
-      <guid>https://katopachi.github.io/en/tags/price-elasticities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reporting</title>
-      <link>https://katopachi.github.io/en/tags/reporting/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://katopachi.github.io/en/tags/reporting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selection</title>
-      <link>https://katopachi.github.io/en/tags/selection/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://katopachi.github.io/en/tags/selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tax incentives</title>
-      <link>https://katopachi.github.io/en/tags/tax-incentives/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://katopachi.github.io/en/tags/tax-incentives/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -103,106 +200,31 @@
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/matching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Job search</title>
-      <link>https://katopachi.github.io/en/tags/job-search/</link>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/tags/job-search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search cost</title>
-      <link>https://katopachi.github.io/en/tags/search-cost/</link>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+        <description></description>
       
-      <guid>https://katopachi.github.io/en/tags/search-cost/</guid>
-      <description></description>
     </item>
     
     <item>
-      <title>Working from home</title>
-      <link>https://katopachi.github.io/en/tags/working-from-home/</link>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://katopachi.github.io/en/tags/working-from-home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Antibody Test</title>
-      <link>https://katopachi.github.io/en/tags/antibody-test/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://katopachi.github.io/en/tags/antibody-test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Antibody testing</title>
+      <title>Antibody Testing</title>
       <link>https://katopachi.github.io/en/tags/antibody-testing/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/antibody-testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Free Vouchers</title>
-      <link>https://katopachi.github.io/en/tags/free-vouchers/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/tags/free-vouchers/</guid>
-      <description></description>
+        <description></description>
+      
     </item>
     
     <item>
-      <title>Regression discontinuity analysis</title>
+      <title>Regression Discontinuity Analysis</title>
       <link>https://katopachi.github.io/en/tags/regression-discontinuity-analysis/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/regression-discontinuity-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reminders</title>
-      <link>https://katopachi.github.io/en/tags/reminders/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/tags/reminders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rubella</title>
-      <link>https://katopachi.github.io/en/tags/rubella/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+        <description></description>
       
-      <guid>https://katopachi.github.io/en/tags/rubella/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Text Messages</title>
-      <link>https://katopachi.github.io/en/tags/text-messages/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://katopachi.github.io/en/tags/text-messages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vaccination</title>
-      <link>https://katopachi.github.io/en/tags/vaccination/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://katopachi.github.io/en/tags/vaccination/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -211,7 +233,9 @@
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/vouchers/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -220,16 +244,20 @@
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/covid-19/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
-      <title>Declaration state of emergency</title>
+      <title>Declaration State of Emergency</title>
       <link>https://katopachi.github.io/en/tags/declaration-state-of-emergency/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/declaration-state-of-emergency/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -238,16 +266,31 @@
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/ict/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
-      <title>Membership-based system</title>
+      <title>Membership-Based System</title>
       <link>https://katopachi.github.io/en/tags/membership-based-system/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/membership-based-system/</guid>
-      <description></description>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Working From Home</title>
+      <link>https://katopachi.github.io/en/tags/working-from-home/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/tags/working-from-home/</guid>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -256,7 +299,9 @@
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/altruism/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -265,7 +310,9 @@
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/conformity/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -274,25 +321,31 @@
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/japanese-marrow-donor-program/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
-      <title>Present bias</title>
+      <title>Present Bias</title>
       <link>https://katopachi.github.io/en/tags/present-bias/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/present-bias/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
-      <title>Time preference</title>
+      <title>Time Preference</title>
       <link>https://katopachi.github.io/en/tags/time-preference/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katopachi.github.io/en/tags/time-preference/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
   </channel>

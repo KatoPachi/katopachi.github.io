@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>転職 on 加藤 大貴</title>
+    <title>転職 on Personal Website of Hiroki Kato</title>
     <link>https://katopachi.github.io/tags/%E8%BB%A2%E8%81%B7/</link>
-    <description>Recent content in 転職 on 加藤 大貴</description>
+    <description>Recent content in 転職 on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 29 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/%E8%BB%A2%E8%81%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>テレワークは転職を増やすのか</title>
-      <link>https://katopachi.github.io/articles/whf-and-job-change/</link>
+      <link>https://katopachi.github.io/projects/whf-and-job-change/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/articles/whf-and-job-change/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;検証・コロナ期日本の働き方－意識・行動変化と雇用政策の課題（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶応義塾大学出版会, 2023. [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766428858/&#34;&gt;書籍情報&lt;/a&gt;]&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/projects/whf-and-job-change/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;検証・コロナ期日本の働き方－意識・行動変化と雇用政策の課題（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶応義塾大学出版会, 2023. [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766428858/&#34;&gt;書籍情報&lt;/a&gt;]&lt;/p&gt;</description>
+      
     </item>
     
   </channel>
