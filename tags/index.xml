@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Personal Website of Hiroki Kato</title>
-    <link>https://katopachi.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Charitable Giving</title>
-      <link>https://katopachi.github.io/tags/charitable-giving/</link>
+      <link>http://localhost:1313/tags/charitable-giving/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/charitable-giving/</guid>
+      <guid>http://localhost:1313/tags/charitable-giving/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Index</title>
-      <link>https://katopachi.github.io/tags/index/</link>
+      <link>http://localhost:1313/tags/index/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/index/</guid>
+      <guid>http://localhost:1313/tags/index/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Price Elasticities</title>
-      <link>https://katopachi.github.io/tags/price-elasticities/</link>
+      <link>http://localhost:1313/tags/price-elasticities/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/price-elasticities/</guid>
+      <guid>http://localhost:1313/tags/price-elasticities/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Reporting</title>
-      <link>https://katopachi.github.io/tags/reporting/</link>
+      <link>http://localhost:1313/tags/reporting/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/reporting/</guid>
+      <guid>http://localhost:1313/tags/reporting/</guid>
       
         <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Selection</title>
-      <link>https://katopachi.github.io/tags/selection/</link>
+      <link>http://localhost:1313/tags/selection/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/selection/</guid>
+      <guid>http://localhost:1313/tags/selection/</guid>
       
         <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Tax Incentives</title>
-      <link>https://katopachi.github.io/tags/tax-incentives/</link>
+      <link>http://localhost:1313/tags/tax-incentives/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/tax-incentives/</guid>
+      <guid>http://localhost:1313/tags/tax-incentives/</guid>
       
         <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>Antibody Test</title>
-      <link>https://katopachi.github.io/tags/antibody-test/</link>
+      <link>http://localhost:1313/tags/antibody-test/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/antibody-test/</guid>
+      <guid>http://localhost:1313/tags/antibody-test/</guid>
       
         <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>Free Vouchers</title>
-      <link>https://katopachi.github.io/tags/free-vouchers/</link>
+      <link>http://localhost:1313/tags/free-vouchers/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/free-vouchers/</guid>
+      <guid>http://localhost:1313/tags/free-vouchers/</guid>
       
         <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>Reminders</title>
-      <link>https://katopachi.github.io/tags/reminders/</link>
+      <link>http://localhost:1313/tags/reminders/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/reminders/</guid>
+      <guid>http://localhost:1313/tags/reminders/</guid>
       
         <description></description>
       
@@ -108,10 +108,10 @@
     
     <item>
       <title>Rubella</title>
-      <link>https://katopachi.github.io/tags/rubella/</link>
+      <link>http://localhost:1313/tags/rubella/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/rubella/</guid>
+      <guid>http://localhost:1313/tags/rubella/</guid>
       
         <description></description>
       
@@ -119,10 +119,10 @@
     
     <item>
       <title>Text Messages</title>
-      <link>https://katopachi.github.io/tags/text-messages/</link>
+      <link>http://localhost:1313/tags/text-messages/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/text-messages/</guid>
+      <guid>http://localhost:1313/tags/text-messages/</guid>
       
         <description></description>
       
@@ -130,10 +130,10 @@
     
     <item>
       <title>Vaccination</title>
-      <link>https://katopachi.github.io/tags/vaccination/</link>
+      <link>http://localhost:1313/tags/vaccination/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/vaccination/</guid>
+      <guid>http://localhost:1313/tags/vaccination/</guid>
       
         <description></description>
       
@@ -141,10 +141,10 @@
     
     <item>
       <title>Charity Market</title>
-      <link>https://katopachi.github.io/tags/charity-market/</link>
+      <link>http://localhost:1313/tags/charity-market/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/charity-market/</guid>
+      <guid>http://localhost:1313/tags/charity-market/</guid>
       
         <description></description>
       
@@ -152,10 +152,10 @@
     
     <item>
       <title>Dictator Game</title>
-      <link>https://katopachi.github.io/tags/dictator-game/</link>
+      <link>http://localhost:1313/tags/dictator-game/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/dictator-game/</guid>
+      <guid>http://localhost:1313/tags/dictator-game/</guid>
       
         <description></description>
       
@@ -163,10 +163,10 @@
     
     <item>
       <title>Fraud</title>
-      <link>https://katopachi.github.io/tags/fraud/</link>
+      <link>http://localhost:1313/tags/fraud/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/fraud/</guid>
+      <guid>http://localhost:1313/tags/fraud/</guid>
       
         <description></description>
       
@@ -174,10 +174,10 @@
     
     <item>
       <title>Hidden Action</title>
-      <link>https://katopachi.github.io/tags/hidden-action/</link>
+      <link>http://localhost:1313/tags/hidden-action/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/hidden-action/</guid>
+      <guid>http://localhost:1313/tags/hidden-action/</guid>
       
         <description></description>
       
@@ -185,10 +185,10 @@
     
     <item>
       <title>Promise</title>
-      <link>https://katopachi.github.io/tags/promise/</link>
+      <link>http://localhost:1313/tags/promise/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/promise/</guid>
+      <guid>http://localhost:1313/tags/promise/</guid>
       
         <description></description>
       
@@ -196,10 +196,10 @@
     
     <item>
       <title>Matching</title>
-      <link>https://katopachi.github.io/tags/matching/</link>
+      <link>http://localhost:1313/tags/matching/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/matching/</guid>
+      <guid>http://localhost:1313/tags/matching/</guid>
       
         <description></description>
       
@@ -207,10 +207,10 @@
     
     <item>
       <title>サーチコスト</title>
-      <link>https://katopachi.github.io/tags/%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%82%B9%E3%83%88/</link>
+      <link>http://localhost:1313/tags/%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%82%B9%E3%83%88/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%82%B9%E3%83%88/</guid>
+      <guid>http://localhost:1313/tags/%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%82%B9%E3%83%88/</guid>
       
         <description></description>
       
@@ -218,10 +218,10 @@
     
     <item>
       <title>テレワーク</title>
-      <link>https://katopachi.github.io/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/</link>
+      <link>http://localhost:1313/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/</guid>
+      <guid>http://localhost:1313/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/</guid>
       
         <description></description>
       
@@ -229,10 +229,10 @@
     
     <item>
       <title>転職</title>
-      <link>https://katopachi.github.io/tags/%E8%BB%A2%E8%81%B7/</link>
+      <link>http://localhost:1313/tags/%E8%BB%A2%E8%81%B7/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E8%BB%A2%E8%81%B7/</guid>
+      <guid>http://localhost:1313/tags/%E8%BB%A2%E8%81%B7/</guid>
       
         <description></description>
       
@@ -240,10 +240,10 @@
     
     <item>
       <title>Antibody Testing</title>
-      <link>https://katopachi.github.io/tags/antibody-testing/</link>
+      <link>http://localhost:1313/tags/antibody-testing/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/antibody-testing/</guid>
+      <guid>http://localhost:1313/tags/antibody-testing/</guid>
       
         <description></description>
       
@@ -251,10 +251,10 @@
     
     <item>
       <title>Regression Discontinuity Analysis</title>
-      <link>https://katopachi.github.io/tags/regression-discontinuity-analysis/</link>
+      <link>http://localhost:1313/tags/regression-discontinuity-analysis/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/regression-discontinuity-analysis/</guid>
+      <guid>http://localhost:1313/tags/regression-discontinuity-analysis/</guid>
       
         <description></description>
       
@@ -262,10 +262,10 @@
     
     <item>
       <title>Vouchers</title>
-      <link>https://katopachi.github.io/tags/vouchers/</link>
+      <link>http://localhost:1313/tags/vouchers/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/vouchers/</guid>
+      <guid>http://localhost:1313/tags/vouchers/</guid>
       
         <description></description>
       
@@ -273,10 +273,10 @@
     
     <item>
       <title>ICT</title>
-      <link>https://katopachi.github.io/tags/ict/</link>
+      <link>http://localhost:1313/tags/ict/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/ict/</guid>
+      <guid>http://localhost:1313/tags/ict/</guid>
       
         <description></description>
       
@@ -284,10 +284,10 @@
     
     <item>
       <title>メンバーシップ型人事管理制度</title>
-      <link>https://katopachi.github.io/tags/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E5%9E%8B%E4%BA%BA%E4%BA%8B%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6/</link>
+      <link>http://localhost:1313/tags/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E5%9E%8B%E4%BA%BA%E4%BA%8B%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E5%9E%8B%E4%BA%BA%E4%BA%8B%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6/</guid>
+      <guid>http://localhost:1313/tags/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E5%9E%8B%E4%BA%BA%E4%BA%8B%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6/</guid>
       
         <description></description>
       
@@ -295,10 +295,10 @@
     
     <item>
       <title>緊急事態宣言</title>
-      <link>https://katopachi.github.io/tags/%E7%B7%8A%E6%80%A5%E4%BA%8B%E6%85%8B%E5%AE%A3%E8%A8%80/</link>
+      <link>http://localhost:1313/tags/%E7%B7%8A%E6%80%A5%E4%BA%8B%E6%85%8B%E5%AE%A3%E8%A8%80/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E7%B7%8A%E6%80%A5%E4%BA%8B%E6%85%8B%E5%AE%A3%E8%A8%80/</guid>
+      <guid>http://localhost:1313/tags/%E7%B7%8A%E6%80%A5%E4%BA%8B%E6%85%8B%E5%AE%A3%E8%A8%80/</guid>
       
         <description></description>
       
@@ -306,10 +306,10 @@
     
     <item>
       <title>新型コロナウイルス感染症</title>
-      <link>https://katopachi.github.io/tags/%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87/</link>
+      <link>http://localhost:1313/tags/%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87/</guid>
+      <guid>http://localhost:1313/tags/%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87/</guid>
       
         <description></description>
       
@@ -317,10 +317,10 @@
     
     <item>
       <title>現在バイアス</title>
-      <link>https://katopachi.github.io/tags/%E7%8F%BE%E5%9C%A8%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9/</link>
+      <link>http://localhost:1313/tags/%E7%8F%BE%E5%9C%A8%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E7%8F%BE%E5%9C%A8%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9/</guid>
+      <guid>http://localhost:1313/tags/%E7%8F%BE%E5%9C%A8%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9/</guid>
       
         <description></description>
       
@@ -328,10 +328,10 @@
     
     <item>
       <title>骨髄バンク</title>
-      <link>https://katopachi.github.io/tags/%E9%AA%A8%E9%AB%84%E3%83%90%E3%83%B3%E3%82%AF/</link>
+      <link>http://localhost:1313/tags/%E9%AA%A8%E9%AB%84%E3%83%90%E3%83%B3%E3%82%AF/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E9%AA%A8%E9%AB%84%E3%83%90%E3%83%B3%E3%82%AF/</guid>
+      <guid>http://localhost:1313/tags/%E9%AA%A8%E9%AB%84%E3%83%90%E3%83%B3%E3%82%AF/</guid>
       
         <description></description>
       
@@ -339,10 +339,10 @@
     
     <item>
       <title>時間割引</title>
-      <link>https://katopachi.github.io/tags/%E6%99%82%E9%96%93%E5%89%B2%E5%BC%95/</link>
+      <link>http://localhost:1313/tags/%E6%99%82%E9%96%93%E5%89%B2%E5%BC%95/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E6%99%82%E9%96%93%E5%89%B2%E5%BC%95/</guid>
+      <guid>http://localhost:1313/tags/%E6%99%82%E9%96%93%E5%89%B2%E5%BC%95/</guid>
       
         <description></description>
       
@@ -350,10 +350,10 @@
     
     <item>
       <title>同調性</title>
-      <link>https://katopachi.github.io/tags/%E5%90%8C%E8%AA%BF%E6%80%A7/</link>
+      <link>http://localhost:1313/tags/%E5%90%8C%E8%AA%BF%E6%80%A7/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E5%90%8C%E8%AA%BF%E6%80%A7/</guid>
+      <guid>http://localhost:1313/tags/%E5%90%8C%E8%AA%BF%E6%80%A7/</guid>
       
         <description></description>
       
@@ -361,10 +361,10 @@
     
     <item>
       <title>利他性</title>
-      <link>https://katopachi.github.io/tags/%E5%88%A9%E4%BB%96%E6%80%A7/</link>
+      <link>http://localhost:1313/tags/%E5%88%A9%E4%BB%96%E6%80%A7/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/tags/%E5%88%A9%E4%BB%96%E6%80%A7/</guid>
+      <guid>http://localhost:1313/tags/%E5%88%A9%E4%BB%96%E6%80%A7/</guid>
       
         <description></description>
       
