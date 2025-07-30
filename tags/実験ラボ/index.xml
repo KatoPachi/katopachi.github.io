@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>実験（ラボ） on Personal Website of Hiroki Kato</title>
+    <link>https://katopachi.github.io/tags/%E5%AE%9F%E9%A8%93%E3%83%A9%E3%83%9C/</link>
+    <description>Recent content in 実験（ラボ） on Personal Website of Hiroki Kato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/%E5%AE%9F%E9%A8%93%E3%83%A9%E3%83%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charity Fraud: An Experimental Study of the Moral Hazard Problem in the Charity Market</title>
+      <link>https://katopachi.github.io/projects/charity-fraud/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/projects/charity-fraud/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

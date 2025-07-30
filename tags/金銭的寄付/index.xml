@@ -1,33 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>金銭的寄付 on 加藤 大貴</title>
+    <title>金銭的寄付 on Personal Website of Hiroki Kato</title>
     <link>https://katopachi.github.io/tags/%E9%87%91%E9%8A%AD%E7%9A%84%E5%AF%84%E4%BB%98/</link>
-    <description>Recent content in 金銭的寄付 on 加藤 大貴</description>
+    <description>Recent content in 金銭的寄付 on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://katopachi.github.io/tags/%E9%87%91%E9%8A%AD%E7%9A%84%E5%AF%84%E4%BB%98/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/%E9%87%91%E9%8A%AD%E7%9A%84%E5%AF%84%E4%BB%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>韓国における寄付税制と寄付行動</title>
-      <link>https://katopachi.github.io/project/south-korea-tax-system/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Tax-Price Elasticities of Charitable Giving and Selection of Reporting: Panel Study of South Korea</title>
+      <link>https://katopachi.github.io/projects/tax-price-elasticities/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/project/south-korea-tax-system/</guid>
-      <description>&lt;p&gt;共同研究者：後藤剛志（千葉大学）、金栄録（神戸大学）&lt;/p&gt;
-&lt;p&gt;多くの国は金銭的寄付のインセンティブとして、tax benefitを用いた寄付価格の減少を用いている。 しかしながら、tax benefitの利用は政府の収入を減らすことにつながるので、政府の公共財供給を減らしかねない。 したがって、tax benefitの利用は金銭的寄付を通じた公共財供給の増加による便益と政府の公共財供給の減少によるコストで決まる。 本プロジェクトは韓国の2014年の租税改正を利用して価格弾力性を推定し、「税金が最上の寄付」と考えている人がこの価格に対してどのような反応をするかを検証することを目的とする。&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/projects/tax-price-elasticities/</guid>
+      
+        <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Oxford Economic Papers&lt;/strong&gt;&lt;/em&gt;, 2025 [&lt;a href=&#34;https://doi.org/10.1093/oep/gpaf002&#34;&gt;リンク&lt;/a&gt;]&lt;/p&gt;</description>
+      
     </item>
     
     <item>
-      <title>Patron-Dictator Game: 寄付者と慈善団体の戦略的な関わりあい</title>
-      <link>https://katopachi.github.io/project/patron-dictator-game/</link>
-      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Charity Fraud: An Experimental Study of the Moral Hazard Problem in the Charity Market</title>
+      <link>https://katopachi.github.io/projects/charity-fraud/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/project/patron-dictator-game/</guid>
-      <description>&lt;p&gt;寄付市場における大きな問題点の一つに「情報の非対称性」がある。寄付市場では、寄付者が資産の一部を慈善団体に譲渡し、第三者の利益になる生産を委託する。このとき、寄付者は事前に、慈善団体が集めた寄付金をどのように使うかを知ることができないケースがある。本研究の目的は、この非対称性が寄付市場にどのような影響を与えるかを経済実験で明らかにすることである。&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/projects/charity-fraud/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rebate versus Matching, Again: Does Self-Selection Matter?</title>
+      <link>https://katopachi.github.io/projects/rebate-vs-matching/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/projects/rebate-vs-matching/</guid>
+      
+        <description></description>
+      
     </item>
     
   </channel>

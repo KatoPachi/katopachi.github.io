@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>実験室実験（方法論） on Personal Website of Hiroki Kato</title>
+    <link>http://localhost:1313/tags/%E5%AE%9F%E9%A8%93%E5%AE%A4%E5%AE%9F%E9%A8%93%E6%96%B9%E6%B3%95%E8%AB%96/</link>
+    <description>Recent content in 実験室実験（方法論） on Personal Website of Hiroki Kato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%AE%9F%E9%A8%93%E5%AE%A4%E5%AE%9F%E9%A8%93%E6%96%B9%E6%B3%95%E8%AB%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charity Fraud: An Experimental Study of the Moral Hazard Problem in the Charity Market</title>
+      <link>http://localhost:1313/projects/charity-fraud/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/charity-fraud/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

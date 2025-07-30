@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charitable Giving on Personal Website of Hiroki Kato</title>
-    <link>https://katopachi.github.io/tags/charitable-giving/</link>
+    <link>http://localhost:1313/tags/charitable-giving/</link>
     <description>Recent content in Charitable Giving on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/charitable-giving/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/charitable-giving/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tax-Price Elasticities of Charitable Giving and Selection of Reporting: Panel Study of South Korea</title>
-      <link>https://katopachi.github.io/projects/tax-price-elasticities/</link>
+      <link>http://localhost:1313/projects/tax-price-elasticities/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/projects/tax-price-elasticities/</guid>
+      <guid>http://localhost:1313/projects/tax-price-elasticities/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Oxford Economic Papers&lt;/strong&gt;&lt;/em&gt;, 2025 [&lt;a href=&#34;https://doi.org/10.1093/oep/gpaf002&#34;&gt;リンク&lt;/a&gt;]&lt;/p&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Rebate versus Matching, Again: Does Self-Selection Matter?</title>
-      <link>https://katopachi.github.io/projects/rebate-vs-matching/</link>
+      <link>http://localhost:1313/projects/rebate-vs-matching/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/projects/rebate-vs-matching/</guid>
+      <guid>http://localhost:1313/projects/rebate-vs-matching/</guid>
       
         <description></description>
       

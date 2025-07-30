@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matching on Personal Website of Hiroki Kato</title>
-    <link>https://katopachi.github.io/tags/matching/</link>
+    <link>http://localhost:1313/tags/matching/</link>
     <description>Recent content in Matching on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/matching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/matching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rebate versus Matching, Again: Does Self-Selection Matter?</title>
-      <link>https://katopachi.github.io/projects/rebate-vs-matching/</link>
+      <link>http://localhost:1313/projects/rebate-vs-matching/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/projects/rebate-vs-matching/</guid>
+      <guid>http://localhost:1313/projects/rebate-vs-matching/</guid>
       
         <description></description>
       
