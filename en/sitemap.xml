@@ -15,30 +15,33 @@
                 href="https://katopachi.github.io/en/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/behavioral-economics/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/charitable-giving/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/difference-in-difference/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/fixed-effect-model/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/index/</loc>
+    <loc>https://katopachi.github.io/en/categories/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://katopachi.github.io/tags/index/"
+                href="https://katopachi.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://katopachi.github.io/en/tags/index/"
+                href="https://katopachi.github.io/en/categories/"
                 />
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/charitable-giving/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/design-difference-in-difference/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/design-fixed-effect-model/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-behavioral-economics/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-public-economics/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/tags/monetary-incentives/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
@@ -58,9 +61,6 @@
                 hreflang="en"
                 href="https://katopachi.github.io/en/projects/"
                 />
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/public-economics/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/tags/self-selection/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
@@ -104,10 +104,10 @@
                 href="https://katopachi.github.io/en/projects/adding-nudge-based-reminders/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/experiment-survey/</loc>
+    <loc>https://katopachi.github.io/en/categories/design-experiment-survey/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/health-economics/</loc>
+    <loc>https://katopachi.github.io/en/categories/field-health-economics/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/tags/infectious-disease/</loc>
@@ -135,16 +135,19 @@
                 href="https://katopachi.github.io/en/projects/charity-fraud/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/experiment-lab/</loc>
+    <loc>https://katopachi.github.io/en/categories/design-experiment-lab/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/experimental-economics/</loc>
+    <loc>https://katopachi.github.io/en/tags/dictator-game/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-experimental-economics/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-information-economics/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/tags/information-asymmetry/</loc>
-    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/information-economics/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/projects/rebate-vs-matching/</loc>
@@ -160,6 +163,9 @@
                 href="https://katopachi.github.io/en/projects/rebate-vs-matching/"
                 />
   </url><url>
+    <loc>https://katopachi.github.io/en/categories/design-regression-discontinuity-design/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://katopachi.github.io/en/projects/mailing-vouchers/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -173,16 +179,16 @@
                 href="https://katopachi.github.io/en/projects/mailing-vouchers/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/regression-discontinuity-design/</loc>
+    <loc>https://katopachi.github.io/en/tags/targeting-efficiency/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/correlational-analysis/</loc>
+    <loc>https://katopachi.github.io/en/categories/design-correlational-analysis/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-labor-economics/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/tags/human-resource-management/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/labor-economics/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/projects/who-works-from-home/</loc>
@@ -201,6 +207,9 @@
     <loc>https://katopachi.github.io/en/tags/working-from-home/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://katopachi.github.io/en/tags/altruistic-preference/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://katopachi.github.io/en/projects/behavioral-characteristics-of-bone-marrow-registrants/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -214,7 +223,16 @@
                 href="https://katopachi.github.io/en/projects/behavioral-characteristics-of-bone-marrow-registrants/"
                 />
   </url><url>
+    <loc>https://katopachi.github.io/en/tags/conformity/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://katopachi.github.io/en/tags/marrow-donor-program/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/risk-preference/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/time-preference/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/cv/</loc>
@@ -239,18 +257,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://katopachi.github.io/en/list/"
-                />
-  </url><url>
-    <loc>https://katopachi.github.io/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/categories/"
                 />
   </url>
 </urlset>

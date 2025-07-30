@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>固定効果モデル on Personal Website of Hiroki Kato</title>
-    <link>https://katopachi.github.io/tags/%E5%9B%BA%E5%AE%9A%E5%8A%B9%E6%9E%9C%E3%83%A2%E3%83%87%E3%83%AB/</link>
+    <link>http://localhost:1313/tags/%E5%9B%BA%E5%AE%9A%E5%8A%B9%E6%9E%9C%E3%83%A2%E3%83%87%E3%83%AB/</link>
     <description>Recent content in 固定効果モデル on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/%E5%9B%BA%E5%AE%9A%E5%8A%B9%E6%9E%9C%E3%83%A2%E3%83%87%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%9B%BA%E5%AE%9A%E5%8A%B9%E6%9E%9C%E3%83%A2%E3%83%87%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tax-Price Elasticities of Charitable Giving and Selection of Reporting: Panel Study of South Korea</title>
-      <link>https://katopachi.github.io/projects/tax-price-elasticities/</link>
+      <link>http://localhost:1313/projects/tax-price-elasticities/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/projects/tax-price-elasticities/</guid>
+      <guid>http://localhost:1313/projects/tax-price-elasticities/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Oxford Economic Papers&lt;/strong&gt;&lt;/em&gt;, 2025 [&lt;a href=&#34;https://doi.org/10.1093/oep/gpaf002&#34;&gt;リンク&lt;/a&gt;]&lt;/p&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>テレワークは転職を増やすのか</title>
-      <link>https://katopachi.github.io/projects/whf-and-job-change/</link>
+      <link>http://localhost:1313/projects/whf-and-job-change/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/projects/whf-and-job-change/</guid>
+      <guid>http://localhost:1313/projects/whf-and-job-change/</guid>
       
         <description>&lt;p&gt;&lt;strong&gt;検証・コロナ期日本の働き方－意識・行動変化と雇用政策の課題（樋口美雄・労働政策研究研修機構編）&lt;/strong&gt;, 慶応義塾大学出版会, 2023. [&lt;a href=&#34;https://www.keio-up.co.jp/np/isbn/9784766428858/&#34;&gt;書籍情報&lt;/a&gt;]&lt;/p&gt;</description>
       

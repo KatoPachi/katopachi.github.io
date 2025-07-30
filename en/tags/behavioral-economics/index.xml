@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Behavioral Economics on Personal Website of Hiroki Kato</title>
-    <link>https://katopachi.github.io/en/tags/behavioral-economics/</link>
+    <link>http://localhost:1313/en/tags/behavioral-economics/</link>
     <description>Recent content in Behavioral Economics on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/tags/behavioral-economics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/behavioral-economics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tax-Price Elasticities of Charitable Giving and Selection of Reporting: Panel Study of South Korea</title>
-      <link>https://katopachi.github.io/en/projects/tax-price-elasticities/</link>
+      <link>http://localhost:1313/en/projects/tax-price-elasticities/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/projects/tax-price-elasticities/</guid>
+      <guid>http://localhost:1313/en/projects/tax-price-elasticities/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Oxford Economic Papers&lt;/strong&gt;&lt;/em&gt;, 2025 [&lt;a href=&#34;https://doi.org/10.1093/oep/gpaf002&#34;&gt;Link&lt;/a&gt;]&lt;/p&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Adding Nudge-based Reminders to Financial Incentives for Promoting Antibody Testing and Vaccination to Prevent the Spread of Rubella</title>
-      <link>https://katopachi.github.io/en/projects/adding-nudge-based-reminders/</link>
+      <link>http://localhost:1313/en/projects/adding-nudge-based-reminders/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/projects/adding-nudge-based-reminders/</guid>
+      <guid>http://localhost:1313/en/projects/adding-nudge-based-reminders/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Journal of Behavioral and Experimental Economics&lt;/strong&gt;&lt;/em&gt;, 2024 [&lt;a href=&#34;https://doi.org/10.1016/j.socec.2024.102300&#34;&gt;Link (Open access)&lt;/a&gt;]&lt;/p&gt;</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Charity Fraud: An Experimental Study of the Moral Hazard Problem in the Charity Market</title>
-      <link>https://katopachi.github.io/en/projects/charity-fraud/</link>
+      <link>http://localhost:1313/en/projects/charity-fraud/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/projects/charity-fraud/</guid>
+      <guid>http://localhost:1313/en/projects/charity-fraud/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Rebate versus Matching, Again: Does Self-Selection Matter?</title>
-      <link>https://katopachi.github.io/en/projects/rebate-vs-matching/</link>
+      <link>http://localhost:1313/en/projects/rebate-vs-matching/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/projects/rebate-vs-matching/</guid>
+      <guid>http://localhost:1313/en/projects/rebate-vs-matching/</guid>
       
         <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Mailing Vouchers: A Regression Discontinuity Analysis on Rubella Antibody Testing and Vaccination</title>
-      <link>https://katopachi.github.io/en/projects/mailing-vouchers/</link>
+      <link>http://localhost:1313/en/projects/mailing-vouchers/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/projects/mailing-vouchers/</guid>
+      <guid>http://localhost:1313/en/projects/mailing-vouchers/</guid>
       
         <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Behavioral Characteristics of Bone Marrow Registrants and Stem Cell Donors</title>
-      <link>https://katopachi.github.io/en/projects/behavioral-characteristics-of-bone-marrow-registrants/</link>
+      <link>http://localhost:1313/en/projects/behavioral-characteristics-of-bone-marrow-registrants/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/en/projects/behavioral-characteristics-of-bone-marrow-registrants/</guid>
+      <guid>http://localhost:1313/en/projects/behavioral-characteristics-of-bone-marrow-registrants/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Journal of Behavioral Economics and Finance&lt;/strong&gt;&lt;/em&gt;, 13, pp.32-52, 2020. [&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jbef/13/0/13_32/_article/-char/ja&#34;&gt;Link (Open access)&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This paper is written in Japanese. English abstract is available.&lt;/em&gt;&lt;/p&gt;</description>

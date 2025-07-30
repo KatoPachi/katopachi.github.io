@@ -1,30 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>リスク選好 on 加藤 大貴</title>
+    <title>リスク選好 on Personal Website of Hiroki Kato</title>
     <link>https://katopachi.github.io/tags/%E3%83%AA%E3%82%B9%E3%82%AF%E9%81%B8%E5%A5%BD/</link>
-    <description>Recent content in リスク選好 on 加藤 大貴</description>
+    <description>Recent content in リスク選好 on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://katopachi.github.io/tags/%E3%83%AA%E3%82%B9%E3%82%AF%E9%81%B8%E5%A5%BD/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/%E3%83%AA%E3%82%B9%E3%82%AF%E9%81%B8%E5%A5%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>骨髄バンクのドナープールの経済学的考察</title>
-      <link>https://katopachi.github.io/project/bone-marrow-registries/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <title>骨髄バンク登録者・幹細胞提供者の行動経済学的特性</title>
+      <link>https://katopachi.github.io/projects/behavioral-characteristics-of-bone-marrow-registrants/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://katopachi.github.io/project/bone-marrow-registries/</guid>
-      <description>&lt;p&gt;共同研究者：大竹文雄（大阪大学）、吉内一浩（東京大学）、樋田紫子（東京大学）、黒澤彩子（伊那中央病院）、福田隆浩（国立がん研究センター中央病院）&lt;/p&gt;
-&lt;p&gt;白血病などの血液疾患を抱える患者が家族内のドナーを見つけられないとき、
-日本骨髄バンクに登録されたドナーからの移植を受ける必要がある。
-骨髄バンクを介した移植の到達率を高めるためには、
-骨髄バンクの登録者を増やすだけでなく、
-適合者となったときに積極的に提供するドナーで構成される質の高いドナープールを目指す必要がある。
-本プロジェクトの目的は、日本骨髄バンクが適合経験がある登録者に対して実施したアンケート調査を用いて、
-経済学、とくに行動経済学の知見から幹細胞提供者の特徴を明らかにする。&lt;/p&gt;</description>
+      <guid>https://katopachi.github.io/projects/behavioral-characteristics-of-bone-marrow-registrants/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;行動経済学&lt;/strong&gt;, 13, pp.32-52, 2020. [&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jbef/13/0/13_32/_article/-char/ja&#34;&gt;リンク（オープンアクセス）&lt;/a&gt;]&lt;/p&gt;</description>
+      
     </item>
     
   </channel>
