@@ -1,64 +1,7 @@
-div.simple-table table {
-	width: 100%;
-	border-top: 1px solid #000000;
-	border-left: 1px solid #000000;
-	border-bottom: 1px solid #000000;
-	border-right: 1px solid #000000;
-	border-collapse: collapse;
-	background: #ffffff;
-	margin-bottom:15px;
-  	margin-left: auto;
-  	margin-right: auto;
-     color:#000000;
-}
-div.simple-table table th{
-	font-size: 0.85em;
-	background-color: #cccccc;
-	border: 1px solid #000000;
-	text-align: center;
- 	padding:10px 0;
-}
-div.simple-table table td {
-	font-size: 0.85em;
-	border: 1px solid #000000;
-	/*border-right: 1px solid #e2e2e2;*/
-	/*border-bottom: 1px solid #e2e2e2;*/
-	padding:5px 5px;
-}
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP:wght@100;200;300;400;500;600;700&display=swap');
 
-.icon-researchmap:before {
-  content: "";
-  background-image: url("/images/icon_researchmap.png");
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  background-size: contain;
-  vertical-align: middle;
-}
-
-.post .post-title-neutral h1 {
-  text-transform: capitalize;
-  font-size: 30px;
-  letter-spacing: 5px;
-  line-height: 1;
-}
-
-.post .post-title-neutral h2 {
-  text-transform: capitalize;
-  letter-spacing: 1px;
-  font-size: 26px;
-  line-height: 1;
+body, input, select, textarea {
+  font-family: "IBM Plex Sans JP", sans-serif;
+  font-size: 17px;
   font-weight: 400;
-  color: var(--heading-color);
-}
-
-.post .post-title-neutral h3 {
-  text-transform: capitalize;
-  letter-spacing: 1px;
-  line-height: 1;
-  font-weight: 300;
-  /* color: #464646; */
-  color: var(--heading-color);
-  font-size: 22px;
-  margin: 0;
 }
