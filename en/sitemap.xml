@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://katopachi.github.io/en/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -15,8 +15,11 @@
                 href="https://katopachi.github.io/en/"
                 />
   </url><url>
+    <loc>https://katopachi.github.io/en/tags/business-related-waste/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://katopachi.github.io/en/categories/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -28,32 +31,49 @@
                 href="https://katopachi.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/charitable-giving/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/categories/design-difference-in-difference/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/categories/design-fixed-effect-model/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://katopachi.github.io/en/categories/design-instrumental-variables/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/en/categories/field-behavioral-economics/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/en/categories/design-marginal-treatment-effect/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/categories/design-marginal-treatment-effect/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/categories/design-marginal-treatment-effect/"
+                />
   </url><url>
-    <loc>https://katopachi.github.io/en/categories/field-public-economics/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/en/projects/mte-of-payt/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/mte-of-payt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/mte-of-payt/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-environmental-economics/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/household-waste/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/tags/monetary-incentives/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/price-elasticities/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/en/tags/pay-as-you-throw-program/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/projects/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -66,10 +86,10 @@
                 />
   </url><url>
     <loc>https://katopachi.github.io/en/tags/self-selection/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/tags/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -80,6 +100,24 @@
                 hreflang="en"
                 href="https://katopachi.github.io/en/tags/"
                 />
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/charitable-giving/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/design-difference-in-difference/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/design-fixed-effect-model/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-behavioral-economics/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-public-economics/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/price-elasticities/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/projects/tax-price-elasticities/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>

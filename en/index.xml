@@ -6,7 +6,18 @@
     <description>Recent content on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estimating the Impact of the Pay-As-You-Throw Program on Waste Reduction: Using MTE Analysis</title>
+      <link>https://katopachi.github.io/en/projects/mte-of-payt/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/en/projects/mte-of-payt/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>Tax-Price Elasticities of Charitable Giving and Selection of Reporting: Panel Study of South Korea</title>
       <link>https://katopachi.github.io/en/projects/tax-price-elasticities/</link>
@@ -93,8 +104,36 @@
       
       <guid>https://katopachi.github.io/en/cv/</guid>
       
-        <description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/11H8z-tW1Kqs_-6t5HKIdtmwiBMcax7rP/view?usp=sharing&#34;&gt;&lt;strong&gt;PDF version&lt;/strong&gt; (linked to Google Drive)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://katopachi.github.io/en/cv/#basic-information&#34;&gt;Basic Information&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#education&#34;&gt;Education&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#professional-training-and-employment&#34;&gt;Professional Training and Employment&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#other-affiliations&#34;&gt;Other Affiliations&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#research-objectives&#34;&gt;Research Objectives&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#peer-reviewed-papers&#34;&gt;Peer-reviewed Papers&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#other-publications&#34;&gt;Other Publications&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#working-papers&#34;&gt;Working Papers&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#honors-and-awards&#34;&gt;Honors and Awards&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#grants-and-fellowships&#34;&gt;Grants and Fellowships&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#teaching-experience&#34;&gt;Teaching Experience&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#conference-and-seminar-presentations&#34;&gt;Conference and Seminar Presentations&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#current-professional-memberships&#34;&gt;Current Professional Memberships&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/en/cv/#professional-services&#34;&gt;Professional Services&lt;/a&gt;&lt;/p&gt;</description>
+        <description>&lt;div class=&#34;dropdown&#34;&gt;
+  &lt;button class=&#34;dropdown-toggle&#34; type=&#34;button&#34; id=&#34;cvDropdown&#34; aria-expanded=&#34;false&#34;&gt;
+    📋 Table of Contents
+  &lt;/button&gt;
+  &lt;div class=&#34;dropdown-menu&#34; aria-labelledby=&#34;cvDropdown&#34;&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#basic-information&#34;&gt;Basic Information&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#education&#34;&gt;Education&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#professional-training-and-employment&#34;&gt;Professional Training and Employment&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#other-affiliations&#34;&gt;Other Affiliations&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#research-objectives&#34;&gt;Research Objectives&lt;/a&gt;
+    &lt;div class=&#34;dropdown-divider&#34;&gt;&lt;/div&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#peer-reviewed-papers&#34;&gt;Peer-reviewed Papers&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#other-publications&#34;&gt;Other Publications&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#working-papers&#34;&gt;Working Papers&lt;/a&gt;
+    &lt;div class=&#34;dropdown-divider&#34;&gt;&lt;/div&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#honors-and-awards&#34;&gt;Honors and Awards&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#grants-and-fellowships&#34;&gt;Grants and Fellowships&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#teaching-experience&#34;&gt;Teaching Experience&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#conference-and-seminar-presentations&#34;&gt;Conference and Seminar Presentations&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#current-professional-memberships&#34;&gt;Current Professional Memberships&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#professional-services&#34;&gt;Professional Services&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/11H8z-tW1Kqs_-6t5HKIdtmwiBMcax7rP/view?usp=sharing&#34; class=&#34;pdf-btn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;span class=&#34;pdf-btn-text&#34;&gt;📄 PDF (Google Drive)&lt;/span&gt;
+&lt;/a&gt;
+&lt;h2 id=&#34;basic-information&#34;&gt;Basic Information&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Business address&lt;/strong&gt;:&lt;br&gt;
+School of International Politics, Economics and Communication (SIPEC), Aoyama Gakuin University&lt;br&gt;
+4-4-25, Shibuya, Tokyo, 150-8366, Japan&lt;/p&gt;</description>
       
     </item>
     

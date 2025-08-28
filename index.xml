@@ -6,7 +6,18 @@
     <description>Recent content on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estimating the Impact of the Pay-As-You-Throw Program on Waste Reduction: Using MTE Analysis</title>
+      <link>https://katopachi.github.io/projects/mte-of-payt/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://katopachi.github.io/projects/mte-of-payt/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>Tax-Price Elasticities of Charitable Giving and Selection of Reporting: Panel Study of South Korea</title>
       <link>https://katopachi.github.io/projects/tax-price-elasticities/</link>
@@ -102,13 +113,36 @@
       
       <guid>https://katopachi.github.io/cv/</guid>
       
-        <description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/11EwFonV2jBorzAS8A1IzQNXwudAGk9gQ/view?usp=sharing&#34;&gt;&lt;strong&gt;PDF&lt;/strong&gt;（Google Drive）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://katopachi.github.io/cv/#%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1&#34;&gt;基本情報&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e5%ad%a6%e6%ad%b4&#34;&gt;学歴&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e8%81%b7%e6%ad%b4&#34;&gt;職歴&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e3%81%9d%e3%81%ae%e4%bb%96%e6%89%80%e5%b1%9e&#34;&gt;その他所属&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e7%a0%94%e7%a9%b6%e5%88%86%e9%87%8e&#34;&gt;研究分野&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e6%9f%bb%e8%aa%ad%e4%bb%98%e3%81%8d%e8%ab%96%e6%96%87&#34;&gt;査読付き論文&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e3%81%9d%e3%81%ae%e4%bb%96%e5%87%ba%e7%89%88%e7%89%a9&#34;&gt;その他出版物&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e3%83%af%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%9a%e3%83%bc%e3%83%91%e3%83%bc&#34;&gt;ワーキングペーパー&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e5%8f%97%e8%b3%9e%e6%ad%b4&#34;&gt;受賞歴&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e5%a4%96%e9%83%a8%e8%b3%87%e9%87%91%e7%8d%b2%e5%be%97&#34;&gt;外部資金獲得&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e6%95%99%e8%82%b2%e6%ad%b4&#34;&gt;教育歴&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e5%ad%a6%e4%bc%9a%e3%83%bb%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b9%e7%99%ba%e8%a1%a8&#34;&gt;学会・カンファレンス発表&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e7%8f%be%e5%9c%a8%e3%81%ae%e6%89%80%e5%b1%9e%e5%ad%a6%e4%bc%9a&#34;&gt;現在の所属学会&lt;/a&gt;/&lt;a href=&#34;https://katopachi.github.io/cv/#%e7%a4%be%e4%bc%9a%e3%81%a7%e3%81%ae%e6%b4%bb%e5%8b%95&#34;&gt;社会での活動&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;div class=&#34;dropdown&#34;&gt;
+  &lt;button class=&#34;dropdown-toggle&#34; type=&#34;button&#34; id=&#34;cvDropdownJa&#34; aria-expanded=&#34;false&#34;&gt;
+    📋 目次
+  &lt;/button&gt;
+  &lt;div class=&#34;dropdown-menu&#34; aria-labelledby=&#34;cvDropdownJa&#34;&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#基本情報&#34;&gt;基本情報&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#学歴&#34;&gt;学歴&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#職歴&#34;&gt;職歴&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#その他所属&#34;&gt;その他所属&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#研究分野&#34;&gt;研究分野&lt;/a&gt;
+    &lt;div class=&#34;dropdown-divider&#34;&gt;&lt;/div&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#査読付き論文&#34;&gt;査読付き論文&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#その他出版物&#34;&gt;その他出版物&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#ワーキングペーパー&#34;&gt;ワーキングペーパー&lt;/a&gt;
+    &lt;div class=&#34;dropdown-divider&#34;&gt;&lt;/div&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#受賞歴&#34;&gt;受賞歴&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#外部資金獲得&#34;&gt;外部資金獲得&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#教育歴&#34;&gt;教育歴&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#学会・カンファレンス発表&#34;&gt;学会・カンファレンス発表&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#現在の所属学会&#34;&gt;現在の所属学会&lt;/a&gt;
+    &lt;a class=&#34;dropdown-item&#34; href=&#34;#社会での活動&#34;&gt;社会での活動&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/11EwFonV2jBorzAS8A1IzQNXwudAGk9gQ/view?usp=sharing&#34; class=&#34;pdf-btn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;span class=&#34;pdf-btn-text&#34;&gt;📄 PDF (Google Drive)&lt;/span&gt;
+&lt;/a&gt;
 &lt;h2 id=&#34;基本情報&#34;&gt;基本情報&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;住所&lt;/strong&gt;：&lt;br&gt;
 〒150-8366 東京都渋谷区渋谷4-4-25&lt;br&gt;
-青山学院大学 国際政治経済学部&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メールアドレス&lt;/strong&gt;：&lt;/p&gt;</description>
+青山学院大学 国際政治経済学部&lt;/p&gt;</description>
       
     </item>
     

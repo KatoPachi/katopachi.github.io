@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://katopachi.github.io/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://katopachi.github.io/categories/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,23 +28,40 @@
                 href="https://katopachi.github.io/categories/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/categories/design-%E5%9B%BA%E5%AE%9A%E5%8A%B9%E6%9E%9C%E3%83%A2%E3%83%87%E3%83%AB/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/categories/design-%E5%B7%AE%E5%88%86%E3%81%AE%E5%B7%AE/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/categories/design-marginal-treatment-effect/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/categories/design-marginal-treatment-effect/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/categories/design-marginal-treatment-effect/"
+                />
   </url><url>
     <loc>https://katopachi.github.io/categories/design-%E6%93%8D%E4%BD%9C%E5%A4%89%E6%95%B0%E6%B3%95/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/categories/field-%E5%85%AC%E5%85%B1%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/projects/mte-of-payt/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/mte-of-payt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/mte-of-payt/"
+                />
   </url><url>
-    <loc>https://katopachi.github.io/categories/field-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/categories/field-%E7%92%B0%E5%A2%83%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/projects/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -57,7 +74,7 @@
                 />
   </url><url>
     <loc>https://katopachi.github.io/tags/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,6 +85,33 @@
                 hreflang="ja"
                 href="https://katopachi.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E3%82%B4%E3%83%9F%E8%A2%8B%E6%9C%89%E6%96%99%E5%8C%96/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E5%AE%B6%E5%BA%AD%E3%81%94%E3%81%BF/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E9%87%91%E9%8A%AD%E7%9A%84%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%86%E3%82%A3%E3%83%96/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E4%BA%8B%E6%A5%AD%E7%B3%BB%E3%81%94%E3%81%BF/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E8%87%AA%E5%B7%B1%E9%81%B8%E6%8A%9E/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/categories/design-%E5%9B%BA%E5%AE%9A%E5%8A%B9%E6%9E%9C%E3%83%A2%E3%83%87%E3%83%AB/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/categories/design-%E5%B7%AE%E5%88%86%E3%81%AE%E5%B7%AE/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/categories/field-%E5%85%AC%E5%85%B1%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/categories/field-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/projects/tax-price-elasticities/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
@@ -85,13 +129,7 @@
     <loc>https://katopachi.github.io/tags/%E4%BE%A1%E6%A0%BC%E5%BC%BE%E5%8A%9B%E6%80%A7/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/tags/%E9%87%91%E9%8A%AD%E7%9A%84%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%86%E3%82%A3%E3%83%96/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://katopachi.github.io/tags/%E9%87%91%E9%8A%AD%E7%9A%84%E5%AF%84%E4%BB%98/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/tags/%E8%87%AA%E5%B7%B1%E9%81%B8%E6%8A%9E/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/projects/adding-nudge-based-reminders/</loc>
