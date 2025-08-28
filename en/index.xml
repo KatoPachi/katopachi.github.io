@@ -106,7 +106,7 @@
       
         <description>&lt;div class=&#34;dropdown&#34;&gt;
   &lt;button class=&#34;dropdown-toggle&#34; type=&#34;button&#34; id=&#34;cvDropdown&#34; aria-expanded=&#34;false&#34;&gt;
-    📋 Table of Contents
+    📋 TOC
   &lt;/button&gt;
   &lt;div class=&#34;dropdown-menu&#34; aria-labelledby=&#34;cvDropdown&#34;&gt;
     &lt;a class=&#34;dropdown-item&#34; href=&#34;#basic-information&#34;&gt;Basic Information&lt;/a&gt;
