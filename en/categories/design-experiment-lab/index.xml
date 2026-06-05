@@ -6,12 +6,14 @@
     <description>Recent content in Design: Experiment (Lab) on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</managingEditor>
+    <webMaster>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</webMaster>
     <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/categories/design-experiment-lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Charity Fraud: An Experimental Study of the Moral Hazard Problem in the Charity Market</title>
       <link>https://katopachi.github.io/en/projects/charity-fraud/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/projects/charity-fraud/</guid>
       
         <description></description>

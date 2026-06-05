@@ -6,12 +6,14 @@
     <description>Recent content in Categories on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</managingEditor>
+    <webMaster>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</webMaster>
     <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design: Instrumental Variables</title>
       <link>https://katopachi.github.io/en/categories/design-instrumental-variables/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/design-instrumental-variables/</guid>
       
         <description></description>
@@ -22,7 +24,7 @@
       <title>Design: Marginal Treatment Effect</title>
       <link>https://katopachi.github.io/en/categories/design-marginal-treatment-effect/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/design-marginal-treatment-effect/</guid>
       
         <description></description>
@@ -33,7 +35,7 @@
       <title>Field: Environmental Economics</title>
       <link>https://katopachi.github.io/en/categories/field-environmental-economics/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/field-environmental-economics/</guid>
       
         <description></description>
@@ -44,7 +46,7 @@
       <title>Design: Difference-in-Difference</title>
       <link>https://katopachi.github.io/en/categories/design-difference-in-difference/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/design-difference-in-difference/</guid>
       
         <description></description>
@@ -55,7 +57,7 @@
       <title>Design: Fixed-Effect Model</title>
       <link>https://katopachi.github.io/en/categories/design-fixed-effect-model/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/design-fixed-effect-model/</guid>
       
         <description></description>
@@ -66,7 +68,7 @@
       <title>Field: Behavioral Economics</title>
       <link>https://katopachi.github.io/en/categories/field-behavioral-economics/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/field-behavioral-economics/</guid>
       
         <description></description>
@@ -77,7 +79,7 @@
       <title>Field: Public Economics</title>
       <link>https://katopachi.github.io/en/categories/field-public-economics/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/field-public-economics/</guid>
       
         <description></description>
@@ -88,7 +90,7 @@
       <title>Design: Experiment (Survey)</title>
       <link>https://katopachi.github.io/en/categories/design-experiment-survey/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/design-experiment-survey/</guid>
       
         <description></description>
@@ -99,7 +101,7 @@
       <title>Field: Health Economics</title>
       <link>https://katopachi.github.io/en/categories/field-health-economics/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/field-health-economics/</guid>
       
         <description></description>
@@ -110,7 +112,7 @@
       <title>Design: Experiment (Lab)</title>
       <link>https://katopachi.github.io/en/categories/design-experiment-lab/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/design-experiment-lab/</guid>
       
         <description></description>
@@ -121,7 +123,7 @@
       <title>Field: Experimental Economics</title>
       <link>https://katopachi.github.io/en/categories/field-experimental-economics/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/field-experimental-economics/</guid>
       
         <description></description>
@@ -132,7 +134,7 @@
       <title>Field: Information Economics</title>
       <link>https://katopachi.github.io/en/categories/field-information-economics/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/field-information-economics/</guid>
       
         <description></description>
@@ -143,7 +145,7 @@
       <title>Design: Regression Discontinuity Design</title>
       <link>https://katopachi.github.io/en/categories/design-regression-discontinuity-design/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/design-regression-discontinuity-design/</guid>
       
         <description></description>
@@ -154,7 +156,7 @@
       <title>Design: Correlational Analysis</title>
       <link>https://katopachi.github.io/en/categories/design-correlational-analysis/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/design-correlational-analysis/</guid>
       
         <description></description>
@@ -165,7 +167,7 @@
       <title>Field: Labor Economics</title>
       <link>https://katopachi.github.io/en/categories/field-labor-economics/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
-      
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/field-labor-economics/</guid>
       
         <description></description>
