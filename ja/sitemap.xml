@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://katopachi.github.io/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://katopachi.github.io/categories/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,6 +27,60 @@
                 hreflang="ja"
                 href="https://katopachi.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://katopachi.github.io/categories/design-%E5%AE%9F%E9%A8%93%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/projects/jmdp-rct/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/jmdp-rct/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/jmdp-rct/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/categories/field-%E5%8C%BB%E7%99%82%E5%81%A5%E5%BA%B7%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/categories/field-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/projects/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E9%AA%A8%E9%AB%84%E3%83%90%E3%83%B3%E3%82%AF%E3%83%89%E3%83%8A%E3%83%BC/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E6%83%85%E5%A0%B1%E6%8F%90%E4%BE%9B%E3%83%8A%E3%83%83%E3%82%B8/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/categories/design-marginal-treatment-effect/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
@@ -60,32 +114,6 @@
     <loc>https://katopachi.github.io/categories/field-%E7%92%B0%E5%A2%83%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/projects/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/projects/"
-                />
-  </url><url>
-    <loc>https://katopachi.github.io/tags/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/tags/"
-                />
-  </url><url>
     <loc>https://katopachi.github.io/tags/%E3%82%B4%E3%83%9F%E8%A2%8B%E6%9C%89%E6%96%99%E5%8C%96/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -108,9 +136,6 @@
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/categories/field-%E5%85%AC%E5%85%B1%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/categories/field-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/projects/tax-price-elasticities/</loc>
@@ -148,9 +173,6 @@
     <loc>https://katopachi.github.io/categories/design-%E5%AE%9F%E9%A8%93%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%AA%BF%E6%9F%BB/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/categories/field-%E5%8C%BB%E7%99%82%E5%81%A5%E5%BA%B7%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
-    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://katopachi.github.io/tags/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E6%A4%9C%E6%9F%BB/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -158,9 +180,6 @@
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/tags/%E6%84%9F%E6%9F%93%E7%97%87/</loc>
-    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/tags/%E6%83%85%E5%A0%B1%E6%8F%90%E4%BE%9B%E3%83%8A%E3%83%83%E3%82%B8/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/projects/charity-fraud/</loc>
@@ -258,9 +277,6 @@
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/tags/%E3%83%AA%E3%82%B9%E3%82%AF%E9%81%B8%E5%A5%BD/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/tags/%E9%AA%A8%E9%AB%84%E3%83%90%E3%83%B3%E3%82%AF%E3%83%89%E3%83%8A%E3%83%BC/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/projects/behavioral-characteristics-of-bone-marrow-registrants/</loc>
