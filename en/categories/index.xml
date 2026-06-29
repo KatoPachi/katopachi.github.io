@@ -8,13 +8,13 @@
     <language>en</language>
     <managingEditor>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</managingEditor>
     <webMaster>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</webMaster>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Design: Experimental（Field）</title>
-      <link>https://katopachi.github.io/en/categories/design-experimentalfield/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Design: Natural Experiment</title>
+      <link>https://katopachi.github.io/en/categories/design-natural-experiment/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
-      <guid>https://katopachi.github.io/en/categories/design-experimentalfield/</guid>
+      <guid>https://katopachi.github.io/en/categories/design-natural-experiment/</guid>
       
         <description></description>
       
@@ -23,7 +23,7 @@
     <item>
       <title>Field: Behavioral Economics</title>
       <link>https://katopachi.github.io/en/categories/field-behavioral-economics/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/field-behavioral-economics/</guid>
       
@@ -34,9 +34,20 @@
     <item>
       <title>Field: Health Economics</title>
       <link>https://katopachi.github.io/en/categories/field-health-economics/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/categories/field-health-economics/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Design: Experimental（Field）</title>
+      <link>https://katopachi.github.io/en/categories/design-experimentalfield/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
+      <guid>https://katopachi.github.io/en/categories/design-experimentalfield/</guid>
       
         <description></description>
       

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://katopachi.github.io/en/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://katopachi.github.io/en/categories/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -27,6 +27,66 @@
                 hreflang="en"
                 href="https://katopachi.github.io/en/categories/"
                 />
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/design-natural-experiment/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-behavioral-economics/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-health-economics/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/infectious-disease/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/projects/railway-ad/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/railway-ad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/railway-ad/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/en/projects/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/railway-advertisement/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/spousal-persuasion/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/vaccination/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/categories/design-experimentalfield/</loc>
     <lastmod>2026-06-18T00:00:00+00:00</lastmod>
@@ -44,43 +104,11 @@
                 href="https://katopachi.github.io/en/projects/jmdp-rct/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/en/categories/field-behavioral-economics/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/categories/field-health-economics/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://katopachi.github.io/en/tags/information-nudge/</loc>
     <lastmod>2026-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/tags/marrow-donor-program/</loc>
     <lastmod>2026-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/projects/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/projects/"
-                />
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/tags/"
-                />
   </url><url>
     <loc>https://katopachi.github.io/en/tags/business-related-waste/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
@@ -173,13 +201,7 @@
     <loc>https://katopachi.github.io/en/categories/design-experiment-survey/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/infectious-disease/</loc>
-    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://katopachi.github.io/en/tags/screening-test/</loc>
-    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/vaccination/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/projects/charity-fraud/</loc>
