@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://katopachi.github.io/en/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://katopachi.github.io/en/categories/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -26,6 +26,60 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://katopachi.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/design-regression-discontinuity-design/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/categories/field-health-economics/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/infectious-disease/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/projects/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/vaccination/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/tags/vaccination-recommendation/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/projects/vaccination-recommendation-to-others/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/vaccination-recommendation-to-others/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/vaccination-recommendation-to-others/"
                 />
   </url><url>
     <loc>https://katopachi.github.io/en/tags/charitable-giving/</loc>
@@ -43,19 +97,6 @@
     <loc>https://katopachi.github.io/en/tags/monetary-incentives/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/en/projects/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/projects/"
-                />
-  </url><url>
     <loc>https://katopachi.github.io/en/projects/rebate-vs-matching/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -72,26 +113,7 @@
     <loc>https://katopachi.github.io/en/tags/self-selection/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/en/tags/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/tags/"
-                />
-  </url><url>
     <loc>https://katopachi.github.io/en/categories/design-natural-experiment/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/categories/field-health-economics/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/infectious-disease/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/projects/railway-ad/</loc>
@@ -111,9 +133,6 @@
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/tags/spousal-persuasion/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/tags/vaccination/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/categories/design-experimentalfield/</loc>
@@ -244,9 +263,6 @@
   </url><url>
     <loc>https://katopachi.github.io/en/tags/information-asymmetry/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/en/categories/design-regression-discontinuity-design/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/projects/mailing-vouchers/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>

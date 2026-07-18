@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://katopachi.github.io/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://katopachi.github.io/categories/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,17 +28,14 @@
                 href="https://katopachi.github.io/categories/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/categories/design-%E5%AE%9F%E9%A8%93%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%AA%BF%E6%9F%BB/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/categories/design-%E5%9B%9E%E5%B8%B0%E4%B8%8D%E9%80%A3%E7%B6%9A%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/categories/field-%E5%85%AC%E5%85%B1%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/categories/field-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <loc>https://katopachi.github.io/categories/field-%E5%8C%BB%E7%99%82%E5%81%A5%E5%BA%B7%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/projects/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,6 +46,50 @@
                 hreflang="ja"
                 href="https://katopachi.github.io/projects/"
                 />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/projects/vaccination-recommendation-to-others/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/vaccination-recommendation-to-others/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/vaccination-recommendation-to-others/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E6%8E%A8%E5%A5%A8/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E6%8E%A5%E7%A8%AE/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/tags/%E6%84%9F%E6%9F%93%E7%97%87/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/categories/design-%E5%AE%9F%E9%A8%93%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%AA%BF%E6%9F%BB/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/categories/field-%E5%85%AC%E5%85%B1%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/categories/field-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/projects/rebate-vs-matching/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
@@ -63,19 +104,6 @@
                 href="https://katopachi.github.io/projects/rebate-vs-matching/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/tags/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/tags/"
-                />
-  </url><url>
     <loc>https://katopachi.github.io/tags/%E9%87%91%E9%8A%AD%E7%9A%84%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%86%E3%82%A3%E3%83%96/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,15 +114,6 @@
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/categories/design-%E8%87%AA%E7%84%B6%E5%AE%9F%E9%A8%93/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/categories/field-%E5%8C%BB%E7%99%82%E5%81%A5%E5%BA%B7%E7%B5%8C%E6%B8%88%E5%AD%A6/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/tags/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/tags/%E6%84%9F%E6%9F%93%E7%97%87/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/projects/railway-ad/</loc>
@@ -217,9 +236,6 @@
     <loc>https://katopachi.github.io/tags/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E6%A4%9C%E6%9F%BB/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://katopachi.github.io/tags/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E6%8E%A5%E7%A8%AE/</loc>
-    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://katopachi.github.io/projects/charity-fraud/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -262,9 +278,6 @@
   </url><url>
     <loc>https://katopachi.github.io/tags/%E8%BB%A2%E8%81%B7/</loc>
     <lastmod>2023-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://katopachi.github.io/categories/design-%E5%9B%9E%E5%B8%B0%E4%B8%8D%E9%80%A3%E7%B6%9A%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/projects/mailing-vouchers/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
