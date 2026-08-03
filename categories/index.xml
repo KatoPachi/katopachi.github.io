@@ -8,11 +8,11 @@
     <language>ja</language>
     <managingEditor>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</managingEditor>
     <webMaster>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</webMaster>
-    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design: 回帰不連続デザイン</title>
       <link>https://katopachi.github.io/categories/design-%E5%9B%9E%E5%B8%B0%E4%B8%8D%E9%80%A3%E7%B6%9A%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/categories/design-%E5%9B%9E%E5%B8%B0%E4%B8%8D%E9%80%A3%E7%B6%9A%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</guid>
       
@@ -23,9 +23,20 @@
     <item>
       <title>Field: 医療・健康経済学</title>
       <link>https://katopachi.github.io/categories/field-%E5%8C%BB%E7%99%82%E5%81%A5%E5%BA%B7%E7%B5%8C%E6%B8%88%E5%AD%A6/</link>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/categories/field-%E5%8C%BB%E7%99%82%E5%81%A5%E5%BA%B7%E7%B5%8C%E6%B8%88%E5%AD%A6/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Field: 行動経済学</title>
+      <link>https://katopachi.github.io/categories/field-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
+      <guid>https://katopachi.github.io/categories/field-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6/</guid>
       
         <description></description>
       
@@ -48,17 +59,6 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/categories/field-%E5%85%AC%E5%85%B1%E7%B5%8C%E6%B8%88%E5%AD%A6/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Field: 行動経済学</title>
-      <link>https://katopachi.github.io/categories/field-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6/</link>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
-      <guid>https://katopachi.github.io/categories/field-%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6/</guid>
       
         <description></description>
       

@@ -8,11 +8,11 @@
     <language>en</language>
     <managingEditor>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</managingEditor>
     <webMaster>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</webMaster>
-    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infectious Disease</title>
       <link>https://katopachi.github.io/en/tags/infectious-disease/</link>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/tags/infectious-disease/</guid>
       
@@ -21,9 +21,31 @@
     </item>
     
     <item>
+      <title>Screening Test</title>
+      <link>https://katopachi.github.io/en/tags/screening-test/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
+      <guid>https://katopachi.github.io/en/tags/screening-test/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Targeting Efficiency</title>
+      <link>https://katopachi.github.io/en/tags/targeting-efficiency/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
+      <guid>https://katopachi.github.io/en/tags/targeting-efficiency/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
       <title>Vaccination</title>
       <link>https://katopachi.github.io/en/tags/vaccination/</link>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/tags/vaccination/</guid>
       
@@ -164,17 +186,6 @@
     </item>
     
     <item>
-      <title>Screening Test</title>
-      <link>https://katopachi.github.io/en/tags/screening-test/</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
-      <guid>https://katopachi.github.io/en/tags/screening-test/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
       <title>Dictator Game</title>
       <link>https://katopachi.github.io/en/tags/dictator-game/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
@@ -191,17 +202,6 @@
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/tags/information-asymmetry/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Targeting Efficiency</title>
-      <link>https://katopachi.github.io/en/tags/targeting-efficiency/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
-      <guid>https://katopachi.github.io/en/tags/targeting-efficiency/</guid>
       
         <description></description>
       

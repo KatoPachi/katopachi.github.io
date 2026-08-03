@@ -8,13 +8,24 @@
     <language>ja</language>
     <managingEditor>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</managingEditor>
     <webMaster>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</webMaster>
-    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ワクチン推奨</title>
-      <link>https://katopachi.github.io/tags/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E6%8E%A8%E5%A5%A8/</link>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <title>ターゲティングの効率性</title>
+      <link>https://katopachi.github.io/tags/%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E5%8A%B9%E7%8E%87%E6%80%A7/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
-      <guid>https://katopachi.github.io/tags/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E6%8E%A8%E5%A5%A8/</guid>
+      <guid>https://katopachi.github.io/tags/%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E5%8A%B9%E7%8E%87%E6%80%A7/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>スクリーニング検査</title>
+      <link>https://katopachi.github.io/tags/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E6%A4%9C%E6%9F%BB/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
+      <guid>https://katopachi.github.io/tags/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E6%A4%9C%E6%9F%BB/</guid>
       
         <description></description>
       
@@ -23,7 +34,7 @@
     <item>
       <title>ワクチン接種</title>
       <link>https://katopachi.github.io/tags/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E6%8E%A5%E7%A8%AE/</link>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/tags/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E6%8E%A5%E7%A8%AE/</guid>
       
@@ -34,9 +45,20 @@
     <item>
       <title>感染症</title>
       <link>https://katopachi.github.io/tags/%E6%84%9F%E6%9F%93%E7%97%87/</link>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/tags/%E6%84%9F%E6%9F%93%E7%97%87/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ワクチン推奨</title>
+      <link>https://katopachi.github.io/tags/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E6%8E%A8%E5%A5%A8/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
+      <guid>https://katopachi.github.io/tags/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E6%8E%A8%E5%A5%A8/</guid>
       
         <description></description>
       
@@ -164,17 +186,6 @@
     </item>
     
     <item>
-      <title>スクリーニング検査</title>
-      <link>https://katopachi.github.io/tags/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E6%A4%9C%E6%9F%BB/</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
-      <guid>https://katopachi.github.io/tags/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E6%A4%9C%E6%9F%BB/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
       <title>情報の非対称性</title>
       <link>https://katopachi.github.io/tags/%E6%83%85%E5%A0%B1%E3%81%AE%E9%9D%9E%E5%AF%BE%E7%A7%B0%E6%80%A7/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
@@ -224,17 +235,6 @@
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/tags/%E8%BB%A2%E8%81%B7/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ターゲティングの効率性</title>
-      <link>https://katopachi.github.io/tags/%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E5%8A%B9%E7%8E%87%E6%80%A7/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
-      <guid>https://katopachi.github.io/tags/%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E5%8A%B9%E7%8E%87%E6%80%A7/</guid>
       
         <description></description>
       
