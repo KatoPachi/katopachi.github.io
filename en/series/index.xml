@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Personal Website of Hiroki Kato</title>
+    <title>Research Themes on Personal Website of Hiroki Kato</title>
     <link>https://katopachi.github.io/en/series/</link>
-    <description>Recent content in Research on Personal Website of Hiroki Kato</description>
+    <description>Recent content in Research Themes on Personal Website of Hiroki Kato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</managingEditor>
     <webMaster>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</webMaster>
     <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Infectious Disease Prevention</title>
+      <title>Infectious disease prevention</title>
       <link>https://katopachi.github.io/en/series/infectious-disease-prevention/</link>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/series/infectious-disease-prevention/</guid>
       
-        <description></description>
+        <description>&lt;p&gt;Focusing on vaccination, we study how to encourage people to take preventive action. We examine the effects of policies and information provision, including whether they reach those who need vaccination, and how people come to recommend vaccination to others.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Charitable Giving</title>
+      <title>Charitable giving</title>
       <link>https://katopachi.github.io/en/series/charitable-giving/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/series/charitable-giving/</guid>
       
-        <description></description>
+        <description>&lt;p&gt;We study both how to increase donations and how to ensure that they improve society efficiently. We focus on the effects of tax incentives and subsidies, as well as information asymmetry between donors and charitable organizations.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Stem Cell Donation</title>
+      <title>Stem cell donation</title>
       <link>https://katopachi.github.io/en/series/stem-cell-donation/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/series/stem-cell-donation/</guid>
       
-        <description></description>
+        <description>&lt;p&gt;We study the behavior of donors who make stem cell transplantation possible: who registers and donates, and what kinds of outreach encourage donation, in collaboration with the Japan Marrow Donor Program.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Working From Home</title>
+      <title>Working from home</title>
       <link>https://katopachi.github.io/en/series/working-from-home/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
       <guid>https://katopachi.github.io/en/series/working-from-home/</guid>
       
-        <description></description>
+        <description>&lt;p&gt;We study how the spread of working from home during the COVID-19 pandemic has changed the way people work in Japan, focusing on which jobs and workers have adopted it and how it relates to productivity.&lt;/p&gt;</description>
       
     </item>
     
