@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://katopachi.github.io/en/</loc>
-    <lastmod>2026-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -13,6 +13,48 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://katopachi.github.io/en/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/en/series/charitable-giving/</loc>
+    <lastmod>2026-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://katopachi.github.io/en/projects/charity-fraud/</loc>
+    <lastmod>2026-11-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/charity-fraud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/charity-fraud/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/en/projects/</loc>
+    <lastmod>2026-11-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/projects/"
+                />
+  </url><url>
+    <loc>https://katopachi.github.io/en/series/</loc>
+    <lastmod>2026-11-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://katopachi.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katopachi.github.io/en/series/"
                 />
   </url><url>
     <loc>https://katopachi.github.io/en/series/infectious-disease-prevention/</loc>
@@ -31,32 +73,6 @@
                 href="https://katopachi.github.io/en/projects/mailing-vouchers/"
                 />
   </url><url>
-    <loc>https://katopachi.github.io/en/projects/</loc>
-    <lastmod>2026-07-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/projects/"
-                />
-  </url><url>
-    <loc>https://katopachi.github.io/en/series/</loc>
-    <lastmod>2026-07-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/series/"
-                />
-  </url><url>
     <loc>https://katopachi.github.io/en/projects/vaccination-recommendation-to-others/</loc>
     <lastmod>2026-07-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -69,9 +85,6 @@
                 hreflang="en"
                 href="https://katopachi.github.io/en/projects/vaccination-recommendation-to-others/"
                 />
-  </url><url>
-    <loc>https://katopachi.github.io/en/series/charitable-giving/</loc>
-    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://katopachi.github.io/en/projects/rebate-vs-matching/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
@@ -152,19 +165,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://katopachi.github.io/en/projects/adding-nudge-based-reminders/"
-                />
-  </url><url>
-    <loc>https://katopachi.github.io/en/projects/charity-fraud/</loc>
-    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://katopachi.github.io/projects/charity-fraud/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://katopachi.github.io/en/projects/charity-fraud/"
                 />
   </url><url>
     <loc>https://katopachi.github.io/en/projects/who-works-from-home/</loc>

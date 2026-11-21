@@ -8,7 +8,18 @@
     <language>ja</language>
     <managingEditor>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</managingEditor>
     <webMaster>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</webMaster>
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>寄付行動</title>
+      <link>https://katopachi.github.io/series/%E5%AF%84%E4%BB%98%E8%A1%8C%E5%8B%95/</link>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
+      <guid>https://katopachi.github.io/series/%E5%AF%84%E4%BB%98%E8%A1%8C%E5%8B%95/</guid>
+      
+        <description>&lt;p&gt;寄付をどう増やすか、そして寄付が社会を効率的に改善するにはどうすればよいかを研究しています。税制優遇や補助金の効果に加え、寄付者と慈善団体の間の情報の非対称性に注目しています。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>感染症予防</title>
       <link>https://katopachi.github.io/series/%E6%84%9F%E6%9F%93%E7%97%87%E4%BA%88%E9%98%B2/</link>
@@ -17,17 +28,6 @@
       <guid>https://katopachi.github.io/series/%E6%84%9F%E6%9F%93%E7%97%87%E4%BA%88%E9%98%B2/</guid>
       
         <description>&lt;p&gt;ワクチン接種を中心に、人々の予防行動をどうすれば促せるかを研究しています。政策や情報発信の効果と、それが接種を必要とする人に届いているか、また人々が他者に接種を勧める行動がどのように形づくられるかを検証しています。&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>寄付行動</title>
-      <link>https://katopachi.github.io/series/%E5%AF%84%E4%BB%98%E8%A1%8C%E5%8B%95/</link>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
-      <guid>https://katopachi.github.io/series/%E5%AF%84%E4%BB%98%E8%A1%8C%E5%8B%95/</guid>
-      
-        <description>&lt;p&gt;寄付をどう増やすか、そして寄付が社会を効率的に改善するにはどうすればよいかを研究しています。税制優遇や補助金の効果に加え、寄付者と慈善団体の間の情報の非対称性に注目しています。&lt;/p&gt;</description>
       
     </item>
     

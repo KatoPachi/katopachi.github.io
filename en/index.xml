@@ -8,7 +8,18 @@
     <language>en</language>
     <managingEditor>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</managingEditor>
     <webMaster>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</webMaster>
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://katopachi.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moral Hazard in Delegated Altruism: A Dictator Game with an Intermediary</title>
+      <link>https://katopachi.github.io/en/projects/charity-fraud/</link>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
+      <guid>https://katopachi.github.io/en/projects/charity-fraud/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>Mailing Vouchers, Take-Up, and Targeting Efficiency: Evidence from Rubella Immunization Programs</title>
       <link>https://katopachi.github.io/en/projects/mailing-vouchers/</link>
@@ -94,17 +105,6 @@
       <guid>https://katopachi.github.io/en/projects/adding-nudge-based-reminders/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;Journal of Behavioral and Experimental Economics&lt;/em&gt;, 2024. [&lt;a href=&#34;https://doi.org/10.1016/j.socec.2024.102300&#34;&gt;Link (Open access)&lt;/a&gt;]&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Charity Fraud: An Experimental Study of the Moral Hazard Problem in the Charity Market</title>
-      <link>https://katopachi.github.io/en/projects/charity-fraud/</link>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <author>hkato.econ@cider.osaka-u.ac.jp (Hiroki Kato)</author>
-      <guid>https://katopachi.github.io/en/projects/charity-fraud/</guid>
-      
-        <description></description>
       
     </item>
     
